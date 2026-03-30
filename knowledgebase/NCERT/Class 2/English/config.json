@@ -1,0 +1,22 @@
+{
+  "embedding_model": "all-MiniLM-L6-v2",
+  "llm_model": "microsoft/Phi-3-mini-4k-instruct",
+  "dimension": 384,
+  "total_chunks": 49,
+  "source_files": [
+    "bemr105.pdf",
+    "bemr106.pdf",
+    "bemr107.pdf",
+    "bemr108.pdf",
+    "bemr109.pdf",
+    "bemr110.pdf",
+    "bemr111.pdf",
+    "bemr112.pdf",
+    "bemr113.pdf",
+    "bemr101.pdf",
+    "bemr102.pdf",
+    "bemr103.pdf",
+    "bemr104.pdf"
+  ],
+  "watermark": "Supratim AI Learning System"
+}

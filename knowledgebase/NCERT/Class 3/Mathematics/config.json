@@ -1,0 +1,23 @@
+{
+  "embedding_model": "all-MiniLM-L6-v2",
+  "llm_model": "microsoft/Phi-3-mini-4k-instruct",
+  "dimension": 384,
+  "total_chunks": 139,
+  "source_files": [
+    "cemm101.pdf",
+    "cemm102.pdf",
+    "cemm103.pdf",
+    "cemm104.pdf",
+    "cemm105.pdf",
+    "cemm106.pdf",
+    "cemm107.pdf",
+    "cemm108.pdf",
+    "cemm109.pdf",
+    "cemm110.pdf",
+    "cemm111.pdf",
+    "cemm112.pdf",
+    "cemm113.pdf",
+    "cemm114.pdf"
+  ],
+  "watermark": "Supratim AI Learning System"
+}
