@@ -56,7 +56,7 @@ Click below to launch the notebook directly:
 
 Click below to watch the demo:
 
-[![Watch the Demo](https://i.vimeocdn.com/video/placeholder.jpg)](https://vimeo.com/1178060711)
+[![Maria Demo – Click to Watch](https://vumbnail.com/1178060711.jpg)](https://vimeo.com/1178060711)
 
 ---
 
