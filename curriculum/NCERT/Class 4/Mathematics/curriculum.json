@@ -1,0 +1,1450 @@
+[
+  {
+    "topic": "Building Model Creation and Analysis",
+    "content": "Students should list the parts of the building they have represented in their model, explain their reasoning for choosing specific parts, identify the shapes that best represent the parts of the building, describe the similarities and differences between their model and the actual building, discuss the impact of removing a piece from their model, suggest improvements to their model, create a model of a different building using blocks, and identify the parts of the building they modeled and explain their choice of shapes.",
+    "learning_objectives": [
+      "Identify the key idea related to modeling buildings with blocks",
+      "Describe the importance of selecting appropriate shapes for different parts of a building",
+      "Discuss the significance of comparing a model to the actual building",
+      "Understand the benefits of creating a model of a building",
+      "Understand how modeling helps us understand the structure of a building",
+      "Understand why it is important to compare a model to the real building",
+      "Avoid using the wrong shapes for certain parts of the building",
+      "Avoid not comparing the model to the real building to check for accuracy"
+    ]
+  },
+  {
+    "topic": "Understanding Prisms and Pyramids",
+    "content": "A prism is a three-dimensional shape with two parallel, congruent faces called bases. The other faces, known as lateral faces, are parallelograms. A pyramid has a base that is a polygon and triangular faces that meet at a common vertex.",
+    "learning_objectives": [
+      "Explain the structure of a prism",
+      "Describe the structure of a pyramid",
+      "Identify the differences between prisms and pyramids"
+    ]
+  },
+  {
+    "topic": "3D Shapes and Their Properties",
+    "content": "All the triangular faces meet at the apex point. Identify any other shape in each of the pyramids base. Diksha has folded open and flattened a box to see what an open box looks like. This is called the net of the box. If you fold along the dotted lines, you will get the box back.",
+    "learning_objectives": [
+      "Identify the apex point in a pyramid",
+      "Recognize different shapes in the base of pyramids",
+      "Understand the concept of a net of a 3D shape"
+    ]
+  },
+  {
+    "topic": "Understanding the Relationship Between Faces, Edges, and Corners in 3D Shapes",
+    "content": "The relationship between faces, edges, and corners in a 3D shape; the formula F+V=E+2 for a 3D shape; the possibility of constructing a 3D shape with 3 flat faces",
+    "learning_objectives": [
+      "Identify the relationship between the number of faces, edges, and corners in a 3D shape",
+      "Apply the formula F+V=E+2 to calculate the missing value in a 3D shape",
+      "Determine if a 3D shape can be constructed with a given number of faces, edges, and corners"
+    ]
+  },
+  {
+    "topic": "Properties of 3D Shapes",
+    "content": "In this section, we explore the properties of 3D shapes, focusing on their faces, edges, and vertices.",
+    "learning_objectives": [
+      "Identify shapes with the same opposite faces",
+      "Determine which faces share common edges with face number 1",
+      "Identify a face that has no common edge with face number 1",
+      "Understand why shapes have certain properties through examples",
+      "Sort shapes into categories based on face types",
+      "Create a Venn diagram to represent the relationship between shapes with curved faces and shapes with flat faces",
+      "Recognize common mistakes in identifying 3D shapes",
+      "Recall key points about different 3D shapes"
+    ]
+  },
+  {
+    "topic": "Building Models Using Cubes",
+    "content": "Cubes are three-dimensional shapes with six equal square faces; cube towers are structures made by stacking cubes on top of each other; nets are two-dimensional patterns that can be folded into three-dimensional solids.",
+    "learning_objectives": [
+      "Identify the properties of a cube",
+      "Describe how to build a cube tower",
+      "Understand the concept of nets for cubes"
+    ]
+  },
+  {
+    "topic": "Angles and Nets",
+    "content": "Identify angles in objects and nets",
+    "learning_objectives": [
+      "Understand that angles are formed when two lines meet at a point",
+      "Recognize right angles as angles measuring exactly 90 degrees",
+      "Find and identify angles in various objects and shapes"
+    ]
+  },
+  {
+    "topic": "Angles and Triangles",
+    "content": "Draw right, acute, and obtuse angles, identify angles in letters, construct and analyze triangles",
+    "learning_objectives": [
+      "Draw right angles on a dot grid",
+      "Identify and name objects with acute and obtuse angles",
+      "Draw acute and obtuse angles using given lines",
+      "Mark angles in figures with appropriate colors",
+      "Construct a triangle with straws and clay",
+      "Determine the sum of angles in a triangle",
+      "Recognize types of angles in a triangle",
+      "Draw triangles with specified angle types"
+    ]
+  },
+  {
+    "topic": "Properties of Squares, Rectangles, and Circles",
+    "content": "Squares are rectangles with equal sides. Rectangles have opposite sides that are equal and parallel. Circles can be drawn using straws of equal length. A circle is a shape with all points at the same distance from the center.",
+    "learning_objectives": [
+      "Observe squares as a special case of rectangles.",
+      "Understand that squares have equal sides.",
+      "Recognize that rectangles have opposite sides that are equal and parallel.",
+      "Learn that circles can be formed using straws of equal length.",
+      "Understand that a circle is a shape with all points equidistant from the center.",
+      "Determine if a circle can be made with straws of unequal lengths.",
+      "Analyze what happens to the angles of a pentagon when one side is pushed.",
+      "Explore how folding a circular paper and measuring the crease helps understand circles.",
+      "Draw a square and a rectangle.",
+      "Create a circle using straws.",
+      "Avoid the mistake of believing all rectangles are squares.",
+      "Differentiate between the radius and diameter of a circle."
+    ]
+  },
+  {
+    "topic": "Circle Properties",
+    "content": "The center of a circle is the point equidistant from all points on the circle's edge. The radius is the distance from the center to any point on the edge. The diameter is the distance across the circle, passing through the center, and is twice the length of the radius.",
+    "learning_objectives": [
+      "Understand that the radius is half the length of the diameter.",
+      "Recognize that the diameter is the longest straight line that can be drawn within the circle.",
+      "Identify the radius as the distance from the center to the edge of the circle."
+    ]
+  },
+  {
+    "topic": "Geometry and Spatial Reasoning Through Card Games and Matchstick Puzzles",
+    "content": "In this section, we explore the principles of geometry and spatial reasoning through the lens of card games and matchstick puzzles. We will learn how to identify shapes, understand the properties of triangles, and apply logical thinking to solve problems.",
+    "learning_objectives": [
+      "Recognize shapes and count them",
+      "Understand the properties of triangles",
+      "Apply logical reasoning to navigate paths without retracing steps"
+    ]
+  },
+  {
+    "topic": "Understanding Solid Shapes and Angles",
+    "content": "Can you make a model of solid shapes which has a) 12 straws and 8 clay balls? b) 9 straws and 6 clay balls? c) 15 straws and 10 clay balls? d) 10 straws and 6 clay balls? What relation do you notice between the number of sides and the number of angles? Classify these shapes based on the number of angles. Draw a 2D shape that has less than 5 angles. Mark the right angles and write the number of right angles in each figure. Which of the above shapes have only right angles? Draw a 2D shape with more than 5 angles. Observe the following shapes. Identify the shape that has: 2 right angles, 1 acute, and 1 obtuse angle. 1 right, 2 obtuse, and 1 acute angle. 2 obtuse, and 2 acute angles. 4 right angles. Explain clearly in simple language. Shapes can be classified based on the number of angles they have. Right angles are angles of exactly 90 degrees.",
+    "learning_objectives": [
+      "Understand the relationship between the number of sides and angles in a shape",
+      "Classify shapes based on the number of angles",
+      "Identify right angles in shapes"
+    ]
+  },
+  {
+    "topic": "Concept Block 14 - Hide and Seek",
+    "content": "A game where one person hides and the others seek.",
+    "learning_objectives": [
+      "To identify the objective of the seeker in Hide and Seek.",
+      "To describe strategies for hiding in Hide and Seek.",
+      "To understand that Hide and Seek can be played in various scenes or locations."
+    ]
+  },
+  {
+    "topic": "Understanding Different Views of Objects",
+    "content": "This section focuses on the concept of different views (top, front, side) of an object and the importance of perspective in drawing and recognizing objects.",
+    "learning_objectives": [
+      "Understand the concept of different views (top, front, side) of an object",
+      "Recognize the importance of perspective in drawing and recognizing objects",
+      "Match drawings with the correct object based on the view"
+    ]
+  },
+  {
+    "topic": "Perspective in Art",
+    "content": "The concept of perspective in art is the representation of three-dimensional objects on a two-dimensional surface. It involves understanding how objects appear to change in size and shape as they recede into the distance.",
+    "learning_objectives": [
+      "Perspective helps artists create the illusion of depth and space in their work.",
+      "There are different types of perspective, such as one-point, two-point, and three-point.",
+      "Understanding perspective is essential for creating realistic and visually appealing artwork."
+    ]
+  },
+  {
+    "topic": "The Grid Game",
+    "content": "A collaborative activity where players work together to locate objects within a grid by giving and following horizontal and vertical movement clues.",
+    "learning_objectives": [
+      "Understand the role of the grid as a map for the game.",
+      "Develop effective communication skills through clear and concise clues.",
+      "Enhance strategic thinking and problem-solving abilities."
+    ]
+  },
+  {
+    "topic": "Movement on a Grid",
+    "content": "The concept involves understanding movement on a grid, starting from a designated point.",
+    "learning_objectives": [
+      "Describe movement on a grid using cardinal directions",
+      "Identify objects or goals placed on a grid",
+      "Calculate the shortest path to reach an object from the starting point"
+    ]
+  },
+  {
+    "topic": "School Layout Navigation",
+    "content": "Trace the path from the Grade 4 classroom to the stage, identify the shortest route, help the water delivery man reach MDM Kitchen, suggest a route for Rajat to the medical room, trace paths for Bholu and Rani, create a sight map of the school.",
+    "learning_objectives": [
+      "Understand the layout of the school",
+      "Identify the shortest route",
+      "Locate essential facilities like the medical room and IT room"
+    ]
+  },
+  {
+    "topic": "Creating and Understanding Sight Maps",
+    "content": "Draw a sight map to show the way from your school entrance to your classroom and any other important places.",
+    "learning_objectives": [
+      "Identify the starting point (school entrance)",
+      "Locate the destination (classroom)",
+      "Mark other significant locations (e.g., library, cafeteria)",
+      "Explain why the concept works with examples",
+      "Identify the key landmarks on the sight map",
+      "Understand how the sight map helps with navigation",
+      "Identify the shortest route from the entrance to the classroom",
+      "Create a sight map for a different route within the school",
+      "Identify and mark the locations of emergency exits on the sight map",
+      "Avoid not including all important locations on the sight map",
+      "Avoid overlooking the shortest or most efficient routes",
+      "Understand that a sight map is a visual representation of a route",
+      "Understand that it helps with navigation and understanding the layout of a place",
+      "Include all significant locations for accuracy"
+    ]
+  },
+  {
+    "topic": "Counting and Patterns",
+    "content": "Let Us Count Note for Teachers: Encourage learners to count using different ways of grouping and share their thinking. Muniamma makes plates and cups. Number of cups = ____________ Gundappa has some land with tall coconut trees. How many coconut trees does Gundappa have? ___________ How do you know? Gundappa has plucked 5 coconuts from each tree. How many coconuts has he plucked?________ How many coconut laddoos are there in the trays? ____________ How many milk pedas are there in the trays? ____________ Muniamma has arranged coconut laddoos and milk peda in trays like this. All trays have the same arrangement. Trays are placed one on top of the other.",
+    "learning_objectives": [
+      "Counting by grouping objects helps in understanding the concept of numbers.",
+      "Patterns can be used to visualize and count objects efficiently.",
+      "Arranging objects in a systematic way aids in quicker counting and understanding quantity."
+    ]
+  },
+  {
+    "topic": "Even and Odd Numbers",
+    "content": "Write the number of coins in the triangles. Describe Shiv's and Shirley's arrangements and identify even and odd numbers between 1 and 20. Understand the core concept of even and odd numbers, key ideas, deep understanding, check understanding questions, and practice exercises. Be aware of common mistakes and quick revision points.",
+    "learning_objectives": [
+      "Identify even and odd numbers",
+      "Describe arrangements of even and odd numbers",
+      "Understand the difference between even and odd numbers",
+      "Solve problems involving even and odd numbers",
+      "Recognize common mistakes in identifying even and odd numbers"
+    ]
+  },
+  {
+    "topic": "Even and Odd Numbers",
+    "content": "Even numbers are divisible by 2, while odd numbers are not.",
+    "learning_objectives": [
+      "Understand that even numbers end with 0, 2, 4, 6, or 8.",
+      "Understand that odd numbers end with 1, 3, 5, 7, or 9.",
+      "Recognize that the sum of two even numbers or two odd numbers is always even.",
+      "Identify whether a number is even or odd based on its last digit.",
+      "Explain why the sum of two odd numbers is even in a base-10 number system."
+    ]
+  },
+  {
+    "topic": "Organizing a Langar",
+    "content": "Jaspreet and Gulnaz are organizing a langar in their neighborhood Gurudwara expecting 1000 people, with 55 volunteers and various donations.",
+    "learning_objectives": [
+      "Understand the concept of a langar and its significance in the Sikh community",
+      "Recognize the importance of volunteerism and community service in organizing a langar",
+      "Appreciate the role of donations in supporting the langar and ensuring that everyone is fed"
+    ]
+  },
+  {
+    "topic": "Indian System of Numerals",
+    "content": "Write the numbers in the boxes given below. Circle the smallest and cross out the largest. 333 (b) Make six 3-digit numbers using the digits 3, 5, 0, 8 such that all numbers are less than 550. You can repeat the digits. (c) 200 300 450 550 250 400 350 500 600 Let Us Do Reprint 2026-27 42 2. Fill in the blanks with appropriate numbers. c) e) 367 567 a) 788 787 b) d) 338 348 338 348 679 689 679 689 933 933 934 934",
+    "learning_objectives": [
+      "Identify the smallest and largest numbers among a set of given numbers.",
+      "Create three-digit numbers using specified digits under certain conditions.",
+      "Understand and apply the Indian system of numerals."
+    ]
+  },
+  {
+    "topic": "The 1000th Person in a Sequence",
+    "content": "The 1000th person is the 1000th individual in a sequence, used to understand positioning in a series and illustrate the concept of ordinality.",
+    "learning_objectives": [
+      "Identify the ordinal position of the 1000th person in a sequence.",
+      "Describe the 1000th person in a line of people.",
+      "Determine the total number of people in a sequence based on the 1000th person being the last.",
+      "Arrange a list of 1000 names in alphabetical order and identify the 1000th name.",
+      "Infer the height of the 1000th person in a queue arranged by height.",
+      "Avoid confusing the 1000th person with the 1000th item in a list.",
+      "Understand that the 1000th person is not the same in different sequences or contexts.",
+      "Recognize the 1000th person as an individual in the 1000th position in a sequence.",
+      "Grasp the concept of order and positioning in a series using the 1000th person."
+    ]
+  },
+  {
+    "topic": "Identify the Range of Numbers for Different Situations",
+    "content": "Identify the range of numbers most suitable for the following situations. Share your thoughts. Identify things around you that are more than 1000 in number. Number of children in your village Number of tables in your classroom Number of pages in your math textbook Number of teachers in your school Number of leaves in a plant Number of books in your library Number of ants in an anthill Number of girls in your school Number of fingers in your classroom Number of children in your school Number of letters on this page Number of steps to reach school Only 1 50 to 100 2 to 5 100 to 200 500 to 1000 10 to 50 200 to 500 More than 1000",
+    "learning_objectives": [
+      "Understand the variability of number ranges based on context",
+      "Estimate appropriate number ranges for given scenarios",
+      "Consider unique characteristics of each situation"
+    ]
+  },
+  {
+    "topic": "Indian Rhinoceros and Indian Culture",
+    "content": "It weighs between 1800 kg and 2700 kg, is about 2 meters tall and more than 3 meters long. The Indian rhinoceros is the state animal of Assam. India has 788 districts and over 7500 kilometers of coastline. Its history spans over 5000 years and it celebrates more than 1000 festivals.",
+    "learning_objectives": [
+      "Identify the weight range of the Indian rhinoceros",
+      "State the number of districts in India",
+      "Determine the duration of India's history"
+    ]
+  },
+  {
+    "topic": "Understanding the Base-10 System Using Dienes Blocks",
+    "content": "These blocks represent different numerical values, and help students understand the idea of the Indian base-10 place value system of writing numbers and carrying out arithmetic operations on them.",
+    "learning_objectives": [
+      "Explain the base-10 system and its application in place value.",
+      "Visualize numbers using Dienes Blocks.",
+      "Group numbers to simplify addition and subtraction."
+    ]
+  },
+  {
+    "topic": "Addition Facts to 1000",
+    "content": "Complete the addition facts leading to 1000.",
+    "learning_objectives": [
+      "Practice adding numbers to reach 1000.",
+      "Improve speed and accuracy in addition."
+    ]
+  },
+  {
+    "topic": "Place Value and Number Composition",
+    "content": "Numbers are made up of different place values. Each place value represents a different amount.",
+    "learning_objectives": [
+      "Understand that each digit in a number has a place value depending on its position.",
+      "Recognize that the value of a digit is determined by its place in the number.",
+      "Identify the value of specific digits in given numbers."
+    ]
+  },
+  {
+    "topic": "Place Value in Decimal Number System",
+    "content": "In this section, we explore the concept of place value in the decimal number system. Place value is the value of a digit depending on its position within a number.",
+    "learning_objectives": [
+      "Understand that each position in a number has a different value.",
+      "Recognize that the value of a digit increases tenfold with each shift to the left.",
+      "Realize that the absence of a digit (represented by '0') does not contribute to the number's value."
+    ]
+  },
+  {
+    "topic": "Expanded Form and Place Value",
+    "content": "Children can take turns to increase or decrease the number as told.",
+    "learning_objectives": [
+      "Understand the concept of expanded form",
+      "Recognize the importance of place value",
+      "Use place value sliders to manipulate numbers"
+    ]
+  },
+  {
+    "topic": "Number Lines and Comparing Numbers",
+    "content": "Identify numbers within a range and mark them on a number line; compare numbers using a number line",
+    "learning_objectives": [
+      "Identify numbers between 2226 and 3226",
+      "Mark numbers on a number line",
+      "Compare numbers using a number line"
+    ]
+  },
+  {
+    "topic": "Indian Place Value System",
+    "content": "In the Indian place value system, numbers are written using a base-10 system with unique notation for large numbers and specific rules for commas, zeros, and word representation.",
+    "learning_objectives": [
+      "Use commas to separate digits into groups of two starting from the right.",
+      "Utilize zero as a placeholder to signify the absence of a value in a particular place.",
+      "Write numbers in words by grouping digits according to their place value, starting with the largest place value."
+    ]
+  },
+  {
+    "topic": "Understanding 4-digit Numbers Using Dice Digits",
+    "content": "A 4-digit number that can be formed using the digits on a standard die (1, 2, 3, 4, 5, 6).",
+    "learning_objectives": [
+      "Understand the concept of a 4-digit number.",
+      "Recognize the digits on a die.",
+      "Apply the concept to form numbers."
+    ]
+  },
+  {
+    "topic": "Comparing Numbers Through Place Value",
+    "content": "When comparing numbers, it's important to understand place value. The value of a digit depends on its position in the number. For example, in the number 282828, the first '2' is in the thousands place, making it worth 2000, while the second '2' is in the tens place, making it worth 20.",
+    "learning_objectives": [
+      "Understand that the value of a digit increases as it moves from right to left in a number.",
+      "Recognize that a number with more digits is generally larger than a number with fewer digits.",
+      "Compare numbers with the same number of digits by comparing digits from left to right until a difference is found."
+    ]
+  },
+  {
+    "topic": "Comparing Numbers",
+    "content": "When comparing numbers, we determine which number is greater, smaller, or if they are equal. We use the symbols < (less than), > (greater than), and = (equal to) to show these relationships.",
+    "learning_objectives": [
+      "Identify the most significant digit when comparing large numbers",
+      "Move to the next digit when the current digits are the same",
+      "Determine if two numbers are equal if all digits are the same"
+    ]
+  },
+  {
+    "topic": "Number Arrangement and Comparison",
+    "content": "Arranging numbers in increasing or decreasing order helps in understanding the relative size of numbers.",
+    "learning_objectives": [
+      "Arrange numbers in increasing order to compare their sizes easily.",
+      "Arrange numbers in decreasing order to identify the largest number in a set.",
+      "Understand that arranging numbers in order facilitates quick identification of the smallest or largest number."
+    ]
+  },
+  {
+    "topic": "Permutations and Number Counting",
+    "content": "There are 99 numbers strictly between 700 and 800 excluding 700 and 800. How many numbers are there strictly between 7000 and 8000?",
+    "learning_objectives": [
+      "To find the number of four-digit numbers that can be formed using the digits 2, 3, 4, and 7 without repetition",
+      "To apply the permutation formula nPr = n! / (n-r)! to calculate the number of permutations",
+      "To understand the concept of permutations as an arrangement of objects with regard to order"
+    ]
+  },
+  {
+    "topic": "Concept Block 42 - Sharing and Measuring",
+    "content": "Dividing a whole into parts where each part is equal, specifically focusing on halves and quarters.",
+    "learning_objectives": [
+      "Understand that half of an object is when it is divided into two equal parts.",
+      "Understand that a quarter of an object is when it is divided into four equal parts.",
+      "Recognize that equal sharing means each person gets the same amount."
+    ]
+  },
+  {
+    "topic": "Fractions and Parts of a Whole",
+    "content": "When an object is divided into two equal parts, each part is called a half. We write half as 1/2. A quarter represents one of four equal parts of a whole. Fractions are a way to represent parts of a whole using numbers.",
+    "learning_objectives": [
+      "Understand that a half represents one of two equal parts of a whole.",
+      "Recognize that a quarter represents one of four equal parts of a whole.",
+      "Identify fractions as a way to represent parts of a whole."
+    ]
+  },
+  {
+    "topic": "Dividing a Whole into Equal Parts",
+    "content": "This section teaches about dividing a whole into equal parts when sharing something equally.",
+    "learning_objectives": [
+      "Division is sharing equally.",
+      "A whole can be divided into halves, quarters, or any other number of equal parts.",
+      "Sharing fairly means everyone gets the same amount."
+    ]
+  },
+  {
+    "topic": "Sharing Dhokla Among Guests",
+    "content": "Sumedha observes that as the number of guests increases, each person's share of the dhokla decreases.",
+    "learning_objectives": [
+      "Understand that a fixed amount of food divided among more people results in smaller portions.",
+      "Recognize that the size of each person's share is inversely proportional to the number of people sharing the food.",
+      "Apply the concept to calculate the share of dhokla for different numbers of people."
+    ]
+  },
+  {
+    "topic": "Fractions and Division of Whole",
+    "content": "A whole can be divided into any number of equal parts, and each part is a fraction of the whole. The more parts a whole is divided into, the smaller each part becomes. Fractions can be compared by looking at the numerator and the denominator.",
+    "learning_objectives": [
+      "Understand that a whole can be divided into any number of equal parts",
+      "Recognize that dividing a whole into more parts results in smaller fractions",
+      "Compare fractions by examining the numerator and the denominator"
+    ]
+  },
+  {
+    "topic": "Comparing Numbers and Fractions in Real-Life Scenarios",
+    "content": "Idha has seeds of 5 different flowering plants: Rose, Mogra, Lily, Marigold, and Jasmine.",
+    "learning_objectives": [
+      "Understand the concept of comparing numbers and fractions",
+      "Apply the concept to real-life scenarios such as garden planning",
+      "Recognize the importance of equal distribution and adjusting plans accordingly"
+    ]
+  },
+  {
+    "topic": "Dividing a Garden into Parts and Allocating Flowers",
+    "content": "The garden is divided into seven equal parts, each representing one-seventh of the garden, and each type of flower is allocated a specific number of parts based on the given ratios.",
+    "learning_objectives": [
+      "Understand the concept of dividing a garden into equal parts",
+      "Learn to allocate different types of flowers to each part using ratios",
+      "Apply the concept of ratios to plan and organize the garden efficiently"
+    ]
+  },
+  {
+    "topic": "Dosa Preparation and Toppings",
+    "content": "Dosa is a popular South Indian dish made from fermented lentil and rice batter, served with various fillings and toppings.",
+    "learning_objectives": [
+      "Identify the main ingredients in dosa batter.",
+      "Explain how fermentation affects the dosa batter.",
+      "List three common toppings for dosas."
+    ]
+  },
+  {
+    "topic": "Fractions and Paper Folding",
+    "content": "Rohan has a piece of ribbon to decorate his notebook. Mohan's ribbon is one-fourth as long as Rohan's ribbon. How long will Rohan's ribbon be? Draw it. **Mohan's Ribbon** 1. **Fractions in Everyday Life:** - Example 1: Sharing a pizza among friends. - Example 2: Dividing a chocolate bar into equal parts. 2. **Folding a Piece of Paper:** - Fold a rectangular piece of paper into three equal parts and then unfold it. - Color one of the three equal parts. - Fold the paper back into three equal parts and then fold it in half. - Observe the colored part. What is the fraction for the shaded part now? - Write down the fraction observed after each fold. 3. **Folding with Two Equal Parts:** - Start with a piece of paper and fold it into two equal parts. - Halve the paper every time and share the findings with friends. The concept works because each fold divides the paper into equal parts, visually representing fractions. For example, folding a paper into three equal parts shows one-third, and folding it in half shows one-half.",
+    "learning_objectives": [
+      "Understand that fractions represent parts of a whole.",
+      "Visualize fractions through paper folding.",
+      "Observe how fractions change with each fold."
+    ]
+  },
+  {
+    "topic": "Understanding fractions and their equivalence",
+    "content": "Fractions represent parts of a whole. Equivalent fractions represent the same value. Fractions can be compared to determine which is larger or smaller.",
+    "learning_objectives": [
+      "Understand that fractions represent parts of a whole",
+      "Recognize that equivalent fractions have the same value",
+      "Compare fractions to determine their relative sizes"
+    ]
+  },
+  {
+    "topic": "Fractions and Equal Parts",
+    "content": "Bablu is playing with square shapes and wants to cut them into equal parts.",
+    "learning_objectives": [
+      "Understand that equal parts mean the whole is divided into pieces of the same size.",
+      "Recognize that fractions can represent the shaded parts of the squares.",
+      "Identify when a square is divided into equal parts.",
+      "Label each part with the correct fraction after cutting a square into equal parts.",
+      "Determine the fraction that represents a shaded part of a square."
+    ]
+  },
+  {
+    "topic": "Fractions as Parts of a Whole",
+    "content": "A fraction consists of a numerator and a denominator where the numerator tells us how many parts we have and the denominator tells us into how many equal parts the whole is divided.",
+    "learning_objectives": [
+      "Understand that fractions represent parts of a whole.",
+      "Identify the numerator and denominator in a fraction.",
+      "Determine the fraction represented by colored parts.",
+      "Divide shapes into equal parts and shade to represent fractions.",
+      "Recognize common mistakes in working with fractions."
+    ]
+  },
+  {
+    "topic": "Understanding Length Measurement",
+    "content": "Height, width, depth, and breadth are all terms that describe length. Length can be measured using various units, such as meters. Understanding the concept of length is fundamental in many aspects of daily life and various fields of study.",
+    "learning_objectives": [
+      "Identify different terms used to describe length",
+      "Measure height using appropriate tools",
+      "Explain the importance of understanding length"
+    ]
+  },
+  {
+    "topic": "Measuring Length",
+    "content": "Use ropes to measure and compare lengths through walking, jumping, and crawling on marked lines.",
+    "learning_objectives": [
+      "Understand the importance of measuring length",
+      "Develop a sense of scale through physical activities",
+      "Estimate and compare lengths using different ropes"
+    ]
+  },
+  {
+    "topic": "Measurement Concepts",
+    "content": "The concept of measurement involves determining the length, width, or height of an object or distance. Measurement is the process of determining the size, length, or amount of something. Accurate measurement requires the use of standard units and precise tools. Estimation is a useful skill for making quick, approximate measurements. Measurement works by comparing an unknown quantity to a known standard.",
+    "learning_objectives": [
+      "Understand the core concept of measurement",
+      "Identify the importance of standard units in measurement",
+      "Recognize the role of estimation in measurement"
+    ]
+  },
+  {
+    "topic": "Measurement",
+    "content": "Measurement is the process of determining the size, length, or amount of something. Different units of measurement are used for different purposes, such as meters for length and centimeters for smaller objects. Accurate measurement is crucial for various applications, including construction, science, and everyday tasks.",
+    "learning_objectives": [
+      "Understand the core concept of measurement",
+      "Recognize the importance of different units of measurement",
+      "Appreciate the significance of accurate measurement"
+    ]
+  },
+  {
+    "topic": "Measurement Conversion and Units",
+    "content": "The relationship between meters and centimeters is that 1 meter equals 100 centimeters.",
+    "learning_objectives": [
+      "Understand the conversion factor between meters and centimeters",
+      "Recognize the use of centimeters for measuring small objects",
+      "Identify the appropriate unit for measuring small objects"
+    ]
+  },
+  {
+    "topic": "Measurement in the Metric System",
+    "content": "Measurement is the process of determining the size, length, or amount of something. The standard unit of measurement for length in the metric system is the centimeter (cm). A metre (m) is the base unit of length in the metric system, and it is divided into 100 equal parts called centimeters.",
+    "learning_objectives": [
+      "Understand the concept of measurement as a fundamental mathematical tool.",
+      "Identify the standard unit of measurement for length in the metric system.",
+      "Recognize that one meter is equivalent to 100 centimeters."
+    ]
+  },
+  {
+    "topic": "Measurement and Estimation",
+    "content": "Find the longest and the shortest route in this treasure hunt. You can go around the obstacles but cannot jump over them. You can only walk on the yellow tiles and not on the grass. Can you find the length of your route in centimetres? Look for the 1 cm clue in the map.",
+    "learning_objectives": [
+      "Understand the process of measurement",
+      "Estimate the measurement of objects using hand",
+      "Verify measurements using a scale"
+    ]
+  },
+  {
+    "topic": "Metre and Centimetres",
+    "content": "A metre is a unit of length in the metric system, and it is equivalent to 100 centimetres.",
+    "learning_objectives": [
+      "Understand the relationship between metres and centimetres.",
+      "Convert between metres and centimetres.",
+      "Apply conversion knowledge to solve practical problems."
+    ]
+  },
+  {
+    "topic": "Depth Conversion and Comparison",
+    "content": "a) Fill the blanks such that the depths are the same. i) 2 m = 200 cm ii) 4 m = 400 cm iii) 6 m = 600 cm iv) 8 m = 800 cm b) Identify the wells with the same depth and match them.",
+    "learning_objectives": [
+      "Understand the concept of depth measurement",
+      "Convert meters to centimeters",
+      "Compare the depths of different wells"
+    ]
+  },
+  {
+    "topic": "Understanding the concept of perimeter in geometry",
+    "content": "Perimeter is the total length of the boundary of a two-dimensional shape. To find the perimeter, add the lengths of all the sides of the shape. Perimeter helps us understand the distance around a shape.",
+    "learning_objectives": [
+      "Understand that perimeter is measured in linear units",
+      "Learn how to calculate the perimeter by adding all sides of a shape",
+      "Recognize the importance of perimeter in measuring the distance around a shape"
+    ]
+  },
+  {
+    "topic": "Perimeter of Shapes",
+    "content": "The perimeter of a shape is the total distance around the shape. To measure the perimeter, you add up the lengths of all the sides.",
+    "learning_objectives": [
+      "Understand that perimeter is a linear measurement",
+      "Know that perimeters are measured in units such as cm or m",
+      "Recognize that different shapes have different formulas for calculating perimeter"
+    ]
+  },
+  {
+    "topic": "Calculating Cost of Fruits and Vegetables",
+    "content": "Identify the price per unit (e.g., per kilogram) for each fruit and vegetable, determine the quantity of each item needed for the trip, multiply the price per unit by the quantity to find the total cost for each item.",
+    "learning_objectives": [
+      "Understand the concept of calculating the cost of fruits and vegetables",
+      "Identify the price per unit for each item",
+      "Determine the quantity of each item needed",
+      "Multiply the price per unit by the quantity to find the total cost",
+      "Apply the basic principle of multiplication to find the total cost"
+    ]
+  },
+  {
+    "topic": "Shopping List and Pricing",
+    "content": "The family creates a shopping list that includes fruits, vegetables, and other items for a field trip and visits a vendor named Sapan Dada.",
+    "learning_objectives": [
+      "Calculate the total cost of items based on their individual prices",
+      "Understand the concept of equal quantity purchase",
+      "Identify common mistakes in cost calculation"
+    ]
+  },
+  {
+    "topic": "Finding Missing Numbers in Financial Transactions",
+    "content": "Use a number line, play money or any other way to find the balances.",
+    "learning_objectives": [
+      "Understand the relationship between cost, payment, and balance",
+      "Calculate the balance using the formula Balance = Payment - Cost",
+      "Identify when the balance is positive or negative"
+    ]
+  },
+  {
+    "topic": "Basic Arithmetic Operations and Making Change",
+    "content": "Understanding the cost per item and total cost, calculating the change due after a purchase, recognizing the importance of having the correct amount of money for transactions",
+    "learning_objectives": [
+      "Multiply the cost per item by the number of items to get the total cost",
+      "Subtract the total cost from the amount paid to find the change due",
+      "Recognize the importance of having the correct amount of money for transactions"
+    ]
+  },
+  {
+    "topic": "Addition and Word Problems",
+    "content": "Understand the basic arithmetic operations and apply them to solve word problems involving addition.",
+    "learning_objectives": [
+      "Identify the numbers and operations required to solve a problem.",
+      "Use appropriate mathematical operations to find the solution.",
+      "Check the solution by substituting it back into the original problem."
+    ]
+  },
+  {
+    "topic": "Addition with Regrouping",
+    "content": "When adding two numbers, sometimes the sum of the digits in the same place value is more than 9. In such cases, we regroup the excess amount to the next higher place value.",
+    "learning_objectives": [
+      "Addition with regrouping involves carrying over the extra value to the next higher place value when the sum exceeds 9.",
+      "It's important to align numbers by their place values when adding.",
+      "Regrouping helps us keep track of the value in each place as we add."
+    ]
+  },
+  {
+    "topic": "Understanding Place Value and Addition",
+    "content": "Daisy and Lou ate one large piece of pusaw for 38 and bought another small piece for 16. They spent 54 on pusaw.",
+    "learning_objectives": [
+      "Understand that each digit in a number has a place value (ones, tens, hundreds)",
+      "Learn to add numbers by combining like place values",
+      "Recognize that regrouping (carrying over) is needed when the sum of a place value exceeds 9"
+    ]
+  },
+  {
+    "topic": "Addition and Estimation",
+    "content": "Daisy and Lou had collected 185 in their piggy bank. Their mother gave them 125 more for the trip. How much money did they take for the trip?",
+    "learning_objectives": [
+      "To understand the concept of addition",
+      "To practice estimating sums",
+      "To apply addition in real-life scenarios"
+    ]
+  },
+  {
+    "topic": "Subtraction Process and Key Concepts",
+    "content": "Subtraction is the process of taking one number away from another. When subtracting, we start with the ones place, then move to the tens, hundreds, and so on. If there are not enough ones or tens to subtract, we regroup by converting a higher place value into the lower one.",
+    "learning_objectives": [
+      "Begin subtraction with the ones place.",
+      "Move to the tens place if needed.",
+      "Regroup when there are not enough ones or tens."
+    ]
+  },
+  {
+    "topic": "Basic Arithmetic Operations",
+    "content": "In this section, we are learning about basic arithmetic operations, specifically subtraction and addition, and how to apply them to solve real-life problems.",
+    "learning_objectives": [
+      "Understand that subtraction is the process of taking one number away from another",
+      "Understand that addition is the process of combining two or more numbers to make a larger number",
+      "Apply subtraction and addition to solve real-life problems"
+    ]
+  },
+  {
+    "topic": "Subtraction",
+    "content": "Subtraction is a mathematical operation where you find the difference between two numbers. To subtract, align the numbers by their place values and subtract each column starting from the rightmost digit.",
+    "learning_objectives": [
+      "Understand that subtraction helps find out how much more or less one quantity is compared to another",
+      "Align numbers correctly by place value when subtracting",
+      "Use subtraction to determine how many pages are left to read in a book"
+    ]
+  },
+  {
+    "topic": "Train Passenger Calculation",
+    "content": "A daily train between Delhi and Aligarh travels a distance of 131 km. People boarded: 894 People boarded: 158 People alighted: 23 People boarded: 67 People alighted: 75 People alighted:? Reprint 2026-27 111",
+    "learning_objectives": [
+      "Calculate the number of passengers on the train when it leaves Dadri",
+      "Find the number of people who got off the train at Aligarh",
+      "Determine which station had more passengers, New Delhi or Aligarh"
+    ]
+  },
+  {
+    "topic": "Addition and Subtraction",
+    "content": "410 10 is 400 and 2 less than 400 is 398.",
+    "learning_objectives": [
+      "Understand addition as combining quantities",
+      "Understand subtraction as finding differences",
+      "Practice addition and subtraction with given numbers"
+    ]
+  },
+  {
+    "topic": "Measuring weight and capacity",
+    "content": "Weight is measured in kilograms (kg) and grams (g), while capacity is measured in liters (L) and milliliters (mL). A kilogram is heavier than a gram, and a liter is larger than a milliliter.",
+    "learning_objectives": [
+      "Understand the units used for measuring weight and capacity",
+      "Recognize the relationship between kilograms and grams",
+      "Identify the relationship between liters and milliliters"
+    ]
+  },
+  {
+    "topic": "Estimation of Weight",
+    "content": "Estimation is a method used to find a value that is close to the actual value but not exact. It is often used when we need a quick and easy way to measure or compare quantities.",
+    "learning_objectives": [
+      "Understand that estimation helps to quickly determine if a weight is more or less than a certain amount",
+      "Know that kilograms (kg) and grams (g) are units to measure weight",
+      "Be able to convert between kilograms and grams using the fact that 1000 grams equal 1 kilogram",
+      "Realize that estimation works because it allows using round numbers that are easier to work with",
+      "Practice estimating the total weight in kilograms for different items",
+      "Identify common mistakes such as forgetting to convert grams to kilograms when the weight is more than 1000 grams",
+      "Revise key points about estimation, weight measurement units, and conversion"
+    ]
+  },
+  {
+    "topic": "Understanding Balance and Weight Equivalence",
+    "content": "Draw arrows to indicate which side the pan balance will tilt? One is shown for you. a. c. b. d. 3. Match the unit convenient for measuring each of the following objects? Kilograms Grams",
+    "learning_objectives": [
+      "Understand the concept of balance and weight equivalence",
+      "Match objects with the appropriate unit of measurement",
+      "Apply the concept of weight equivalence to solve practical problems"
+    ]
+  },
+  {
+    "topic": "Weighing Machines and Lifting Objects",
+    "content": "Explore different types of weighing machines and lifting experiences with various household items.",
+    "learning_objectives": [
+      "Identify different types of weighing machines",
+      "Estimate and record the weight of household items",
+      "Describe the experience of lifting different objects"
+    ]
+  },
+  {
+    "topic": "Measuring Capacity",
+    "content": "Capacity is the volume of liquid a container can hold, measured in liters or milliliters.",
+    "learning_objectives": [
+      "Understand that capacity is measured in liters or milliliters",
+      "Learn how to determine the capacity of a container by filling it with water and measuring the water",
+      "Recognize the importance of measuring capacity for understanding how much liquid a container can hold"
+    ]
+  },
+  {
+    "topic": "Volume Measurement",
+    "content": "A liter (l) is a larger unit of volume compared to a milliliter (ml); to measure smaller volumes, we use milliliters; filling a larger bottle with smaller bottles can help us understand volume measurement.",
+    "learning_objectives": [
+      "Understand that 1 liter equals 1000 milliliters",
+      "Recognize that milliliters are used for smaller volumes",
+      "Use smaller bottles to fill a larger bottle to understand volume"
+    ]
+  },
+  {
+    "topic": "Volume Measurement and Conversion",
+    "content": "Volume measurement is crucial for accurate dosing in medical and culinary applications. Conversion between different units of volume is essential for practical use.",
+    "learning_objectives": [
+      "Understand the importance of volume measurement in medical and culinary contexts",
+      "Learn to convert between different units of volume",
+      "Recognize the impact of precision in measurement on efficacy and safety"
+    ]
+  },
+  {
+    "topic": "Measurement and Estimation of Liquid Volumes",
+    "content": "Estimate and verify liquid volumes using different containers and measure water consumption in daily life.",
+    "learning_objectives": [
+      "Estimate the volume of liquids using various bottle sizes",
+      "Measure and compare liquid volumes using different containers",
+      "Record and analyze daily water consumption"
+    ]
+  },
+  {
+    "topic": "Water Conservation in Everyday Life",
+    "content": "Every drop of water is valuable. Conserving water helps to preserve our natural resources and reduce the strain on our water supply systems. Simple changes in our daily habits can lead to significant water savings. For example, fixing leaks and using water-efficient appliances can make a big difference. Water conservation is not just about saving water; it's about protecting our environment and ensuring that ecosystems remain healthy and vibrant.",
+    "learning_objectives": [
+      "Understand the importance of conserving water",
+      "Identify simple changes to conserve water at home",
+      "Recognize how water conservation benefits the environment"
+    ]
+  },
+  {
+    "topic": "Multiples and Jumps",
+    "content": "Animals jump in multiples of their step size. To find out how many jumps an animal needs to reach a certain number, divide the target number by the step size.",
+    "learning_objectives": [
+      "Understand multiples",
+      "Use division to find the number of jumps",
+      "Compare multiples of different animals"
+    ]
+  },
+  {
+    "topic": "Multiples and Common Multiples",
+    "content": "Explore multiples and common multiples through various scenarios involving animals jumping and landing on numbers.",
+    "learning_objectives": [
+      "Identify multiples of given numbers",
+      "Determine common multiples of two sets of numbers",
+      "Apply understanding of multiples to solve real-world problems"
+    ]
+  },
+  {
+    "topic": "Multiplication Concepts and Applications",
+    "content": "Gulabo's garden has lily flowers. Each lily flower has 3 petals. How many petals are there in 12 flowers? Show how you found your answer.",
+    "learning_objectives": [
+      "Understand multiplication as repeated addition",
+      "Multiply 1-, 2-, and 3-digit numbers by 1-digit numbers",
+      "Determine the total number of items in groups of the same size"
+    ]
+  },
+  {
+    "topic": "Multiplication as Repeated Addition",
+    "content": "Multiplication is a mathematical operation where we combine equal groups to find the total amount. It's like adding the same number over and over again.",
+    "learning_objectives": [
+      "Understand that multiplication is a shortcut for repeated addition",
+      "Use multiplication to find the total number of items in equal groups",
+      "Apply doubling and halving as strategies to simplify multiplication"
+    ]
+  },
+  {
+    "topic": "Multiplication Through Arrays",
+    "content": "Children can skip count, count in rows and columns, and think in terms of equal groups. The idea is to make children notice arrays as a way of representing multiplication.",
+    "learning_objectives": [
+      "Recognize multiplication as equal groups",
+      "Use arrays to visualize multiplication",
+      "Understand that counting in rows and columns is a form of skip counting"
+    ]
+  },
+  {
+    "topic": "Doubling Numbers",
+    "content": "Doubling a number means to add the number to itself.",
+    "learning_objectives": [
+      "Understand that doubling a number will always result in a number with the same ones digit.",
+      "Recognize that doubling even numbers results in an even number.",
+      "Identify that doubling a number ending in 5 will always result in a number ending in 0."
+    ]
+  },
+  {
+    "topic": "Multiplication Tables",
+    "content": "In this section, we explore the concept of multiplication tables. Multiplication can be thought of as adding a number to itself a certain number of times. Multiplication has several properties, such as commutativity and distributivity. Multiplication tables exhibit patterns.",
+    "learning_objectives": [
+      "Understand multiplication as repeated addition",
+      "Identify the commutative and distributive properties of multiplication",
+      "Recognize patterns in multiplication tables"
+    ]
+  },
+  {
+    "topic": "Common Multiples and Ones Digit Patterns in Multiplication",
+    "content": "In this section, we explore the concept of common multiples and the pattern of ones digits in multiplication.",
+    "learning_objectives": [
+      "Understand what common multiples are",
+      "Identify the pattern in the ones digits of products when multiplying by 8",
+      "Recognize that not all digits from 0 to 9 will appear as the ones digit in every row of a multiplication chart"
+    ]
+  },
+  {
+    "topic": "Identifying Numbers Based on Criteria",
+    "content": "What numbers can go in the box? Give 5 examples of such numbers.",
+    "learning_objectives": [
+      "Identify numbers that meet the criteria for the box.",
+      "Understand the properties of the numbers that are allowed.",
+      "Adhere to the rules or patterns specified for the numbers."
+    ]
+  },
+  {
+    "topic": "Understanding the relationship between products when multiplying by multiples of 10",
+    "content": "Multiplying by 10 adds a zero to the end of the number; multiplying by 100 adds two zeros; multiplying by 1000 adds three zeros.",
+    "learning_objectives": [
+      "Understand that multiplying by 10, 100, or 1000 involves adding zeros to the end of the number.",
+      "Recognize the pattern of adding zeros based on the multiplier.",
+      "Apply the concept to solve multiplication problems involving multiples of 10, 100, and 1000."
+    ]
+  },
+  {
+    "topic": "Multiplication Concepts",
+    "content": "Multiplication is a mathematical operation where you combine equal groups. For example, if you have 10 boxes with 4 cupcakes in each, you multiply 10 by 4 to find the total number of cupcakes.",
+    "learning_objectives": [
+      "Multiplication helps us find the total when we have equal groups of items",
+      "To find the total number of items in multiple groups, we multiply the number of groups by the number of items in each group",
+      "Multiplication can be used to solve real-world problems, such as determining the number of items needed for a project or the number of items in a collection",
+      "Multiplication works because it's a shortcut for repeated addition"
+    ]
+  },
+  {
+    "topic": "Multiplication and Division Problems",
+    "content": "How many each of golden colour beads and white colour beads has he used in making this patchwork? For each of the following multiplication problems, create your own story. Then find out the product. Reprint 2026-27 Division A factory has ordered 58 wheels for the small tempos that they make. Each tempo has 3 wheels. In how many tempos can they fix the wheels?",
+    "learning_objectives": [
+      "Identify and solve multiplication problems",
+      "Create stories based on given multiplication problems",
+      "Determine the number of tempos that can be made with a given number of wheels",
+      "Understand the division process in context of distributing items equally"
+    ]
+  },
+  {
+    "topic": "Division Using Partial Quotient Method",
+    "content": "The division performed here is by partial quotient method. It is carried out by taking away groups of 10s, 5s or any other small multiples, which are easily available to children.",
+    "learning_objectives": [
+      "Understand the partial quotient method as a division technique",
+      "Recognize the benefit of starting with multiples of choice and gradually learning to use multiples of 10",
+      "Apply the concept of division as repeated subtraction"
+    ]
+  },
+  {
+    "topic": "Multiplication in Grouping Context",
+    "content": "This section explores multiplication as a method to find the total number of people when given a certain number of vehicles and the number of people each vehicle can carry.",
+    "learning_objectives": [
+      "Understand multiplication as a fundamental arithmetic operation for calculating total items in groups.",
+      "Apply multiplication to find the total number of people based on the number of vehicles and passengers per vehicle.",
+      "Identify common mistakes in applying multiplication and avoid them."
+    ]
+  },
+  {
+    "topic": "More Multiplication",
+    "content": "To find out how many people can travel in a certain number of autorickshaws, we multiply the number of autorickshaws by the number of passengers each can carry.",
+    "learning_objectives": [
+      "Understand that multiplication is used to calculate the total number of passengers.",
+      "Recognize that each autorickshaw can carry 8 passengers.",
+      "Multiply the number of autorickshaws by the number of passengers each can carry to find the total capacity."
+    ]
+  },
+  {
+    "topic": "Division Concepts and Applications",
+    "content": "They pack 6 kulhads in a box and have packed 174 boxes for delivery. How many kulhads have they made? The total number of kulhads is 1044. Reprint 2026-27 **145** **2.** 234 children of a school have decided to organise a school mela. Each child contributes ` 5 for the organisation of the mela. How much money do they collect? They collect ` 1170. **More Division** 9 boats have to ferry 108 people waiting along the banks of the Cauvery River. Every boat carries the same number of people. How many people should be ferried in each boat? Each boat should ferry 12 people.",
+    "learning_objectives": [
+      "Understand division as a mathematical operation that splits a number into equal parts",
+      "Identify the dividend, divisor, and quotient in a division problem",
+      "Apply division to solve real-world problems involving distribution",
+      "Calculate the number of groups or boxes needed when given a total quantity and the quantity per group"
+    ]
+  },
+  {
+    "topic": "Division Concepts and Problems",
+    "content": "9 boats need to take 12 people each.",
+    "learning_objectives": [
+      "Understand division as a mathematical operation",
+      "Recognize share and measure types of division problems",
+      "Apply division to distribute items equally",
+      "Identify the dividend, divisor, and quotient",
+      "Solve share and measure problems",
+      "Check answers by multiplication"
+    ]
+  },
+  {
+    "topic": "Division and Equal Sharing",
+    "content": "900 shared equally among 3 children = 300 each A B C 3 3 = 1 30 3 = 10 300 3 = 100 5 5 = 1 50 5 = 10 500 5 = 100 9 3 = 3 90 3 = 30 900 3 = 300 8 4 = 2 80 4 = 20 800 4 = 200 15 3 = 5 150 3 = 50 300 3 = 100 4 2 = 2 20 2 = 10 100 2 = 50",
+    "learning_objectives": [
+      "Division is the process of distributing a number into equal parts.",
+      "The quotient is the result of a division problem.",
+      "Division helps determine how many items each group or person gets when sharing equally."
+    ]
+  },
+  {
+    "topic": "Mathematical Concepts and Problem Solving",
+    "content": "Each bus carry the same number of children. The Darjeeling Himalayan Railway is fondly called the Toy Train. This toy train ride is also a UNESCO World Heritage Site. This amazing train runs between New Jalpaiguri and Darjeeling and it also passes through one of the highest stations in the world, namely, Ghum. It runs 88 km daily. The 16 Km river rafting from Shivpuri to Rishikesh in the Ganga provides the most interesting rafting opportunity. In the summer months, VentureOut company took 259 people for rafting. Each raft can take 7 people. Anu saves `45 every month by putting it in her piggy bank.",
+    "learning_objectives": [
+      "Use division to find the number of children per bus",
+      "Calculate the distance covered by the train in a week",
+      "Determine the number of rafts needed for a group of people",
+      "Calculate total savings over a period of time",
+      "Distribute total savings among friends"
+    ]
+  },
+  {
+    "topic": "Understanding Division and Its Relationships",
+    "content": "He makes 8 trips in a day.",
+    "learning_objectives": [
+      "Understand the relationship between divisor, dividend, and quotient",
+      "Observe how changing the dividend by 5 times or 10 times affects the quotient",
+      "Recognize the connection between multiplication and division"
+    ]
+  },
+  {
+    "topic": "Understanding Odd and Even Numbers",
+    "content": "# Book: demm109.pdf ## Chapter: Unknown ### Section: Concept Block 111",
+    "learning_objectives": [
+      "Identify that the number immediately after an odd number is an even number.",
+      "Define odd numbers as integers that cannot be evenly divided by 2.",
+      "Define even numbers as integers that can be evenly divided by 2.",
+      "Understand that the sequence of integers alternates between odd and even numbers.",
+      "Recognize that the concept works due to the ordered nature of integers.",
+      "Determine the next number after 7.",
+      "Classify the number 12 as odd or even.",
+      "Predict the next number in the sequence after an even number.",
+      "Identify whether the number 23 is odd or even.",
+      "Find the next number after 15.",
+      "Avoid the mistake of believing all numbers are odd or even.",
+      "Avoid confusing the terms 'odd' and 'even' with their actual definitions.",
+      "Recall that odd numbers end with 1, 3, 5, 7, or 9.",
+      "Recall that even numbers end with 0, 2, 4, 6, or 8."
+    ]
+  },
+  {
+    "topic": "Addition Game Strategy",
+    "content": "Players take turns adding either 1 or 2 to a running total to reach or exceed the target number of 10.",
+    "learning_objectives": [
+      "Understand the rules of the addition game",
+      "Develop strategic thinking and quick decision-making skills",
+      "Analyze the impact of different target numbers on the game"
+    ]
+  },
+  {
+    "topic": "NIM Game",
+    "content": "A strategic two-player game where players take turns removing objects from piles, aiming to be the one to take the last object.",
+    "learning_objectives": [
+      "Understand the rules of the NIM game",
+      "Identify the goal of the NIM game",
+      "Apply the 'blocking' strategy in the NIM game"
+    ]
+  },
+  {
+    "topic": "Concept Block 114",
+    "content": "This section explains the fundamental idea behind the concept in straightforward terms.",
+    "learning_objectives": [
+      "Describe the first key idea.",
+      "Apply the first key idea to solve a problem.",
+      "Summarize the first key idea."
+    ]
+  },
+  {
+    "topic": "Patterns in Sums and Reversing Digits",
+    "content": "Analyze the sums of numbers in rows, columns, and diagonals, and explore the sums obtained by reversing and adding digits.",
+    "learning_objectives": [
+      "Identify patterns in the sums of numbers in rows and columns.",
+      "Notice consistent values in the sums of diagonal numbers.",
+      "Understand the result of adding a number to its reverse.",
+      "List numbers that add up to specific sums when reversed.",
+      "Determine the smallest 3-digit sum from reversing and adding.",
+      "Recognize common mistakes in observing patterns and reversing digits."
+    ]
+  },
+  {
+    "topic": "Estimation and Conservation of Asiatic Elephants in India",
+    "content": "How many total elephants are there in these two states? Estimate the answer. ________",
+    "learning_objectives": [
+      "Estimate the total number of Asiatic elephants in India",
+      "Understand the importance of estimating the number of elephants in specific regions",
+      "Identify two other endangered wildlife species found in India"
+    ]
+  },
+  {
+    "topic": "Addition of Large Numbers",
+    "content": "The highest number of leopards are found in three states. Gujarat has 1355, Karnataka has 1131 and Madhya Pradesh has 1817. How many total leopards are there in these states?",
+    "learning_objectives": [
+      "Understand the concept of addition",
+      "Combine numbers to find a total",
+      "Calculate the total number of leopards in three states"
+    ]
+  },
+  {
+    "topic": "Addition of Tiger Populations in States",
+    "content": "Maharashtra has 444 tigers. Madhya Pradesh has 341 more tigers than Maharashtra. Uttarakhand has 116 tigers more than Maharashtra.",
+    "learning_objectives": [
+      "Identify known and unknown quantities in word problems",
+      "Use addition to find the total number of tigers in each state",
+      "Calculate the total number of tigers across multiple states"
+    ]
+  },
+  {
+    "topic": "Subtraction",
+    "content": "Subtraction is a mathematical operation where you take away a certain number (the subtrahend) from another number (the minuend) to find the difference.",
+    "learning_objectives": [
+      "Understand that subtraction helps find out how much more one quantity is than another.",
+      "Recognize that the result of a subtraction problem is called the difference.",
+      "Apply subtraction to solve real-world problems involving comparisons."
+    ]
+  },
+  {
+    "topic": "Leopard Population in Assam and Meghalaya",
+    "content": "How many leopards were there in 2018? Assam: 5719 Meghalaya 3965 Reprint 2026-27 156 ? 8820 +749",
+    "learning_objectives": [
+      "Understand the number of leopards in Assam and Meghalaya in 2018",
+      "Apply addition and subtraction in the context of wildlife population",
+      "Recognize the importance of accurate data collection for wildlife conservation"
+    ]
+  },
+  {
+    "topic": "Juice Bottles Packing",
+    "content": "The number of bottles of guava juice is 759 more than the number of bottles of pineapple juice.",
+    "learning_objectives": [
+      "Add 759 to the number of bottles of pineapple juice to find the number of bottles of guava juice.",
+      "Add 1257 to the number of bottles of guava juice to find the number of bottles of orange juice.",
+      "Compare the total number of bottles of guava and orange juice to the number of bottles of passion fruit juice to determine if it's more or less."
+    ]
+  },
+  {
+    "topic": "Mathematics and Data Organization",
+    "content": "The number of taxis is 1579 more than the number of tractors? How many taxis are there? Arrange the numbers of each type of vehicle from lowest to highest. Solve addition problems. Reprint 2026-27 159 SPB Deposit Slip Date Account no.: Depositor s Signature: Name: Raju Amount (in numbers): 2045 Total Amount (in words): Type of Note/ coin No. of Notes/ coins Amount 500 3 1500 100 3 300 50 2 _______ 10 14 _______ 5 1 _______ 2 0 _______ 1 0 _______ Total _______ _______ Raju 2 0 2 5 2045 3578 1240 Raju Rani Roja",
+    "learning_objectives": [
+      "Understand the concept of arranging numbers in ascending order",
+      "Apply the skill of arranging numbers in everyday life scenarios",
+      "Solve addition problems involving large numbers"
+    ]
+  },
+  {
+    "topic": "Understanding Different Combinations of Notes and Coins",
+    "content": "Help each of the children fill the deposit slip given below. Different combinations of notes can give the same amount. Can you guess a possible combination of notes they might have? Fill in the amounts appropriately.",
+    "learning_objectives": [
+      "Understand the concept of different combinations of notes and coins that can make up the same total amount",
+      "Accurately fill out the deposit slip with the correct information",
+      "Understand the role of the depositor's signature in verifying the transaction"
+    ]
+  },
+  {
+    "topic": "Basic Arithmetic Operations",
+    "content": "This section explores the core concepts of addition, subtraction, multiplication, and division, explaining how they are used in real-life scenarios.",
+    "learning_objectives": [
+      "Understand the concept of addition as combining values.",
+      "Understand the concept of subtraction as taking away values.",
+      "Understand the concept of multiplication as repeated addition.",
+      "Understand the concept of division as sharing equally.",
+      "Practice solving problems involving addition, subtraction, multiplication, and division."
+    ]
+  },
+  {
+    "topic": "Addition and Subtraction",
+    "content": "Addition combines numbers to find a total. When subtracting, find the difference between numbers.",
+    "learning_objectives": [
+      "Practice addition of large numbers",
+      "Practice subtraction of large numbers",
+      "Understand the concept of odd differences"
+    ]
+  },
+  {
+    "topic": "Symmetry in Design and Architecture",
+    "content": "Symmetry is a property of a design or object that is the same on both sides when divided by a line or plane.",
+    "learning_objectives": [
+      "Identify symmetrical objects in surroundings",
+      "Determine the number of lines of symmetry in a square",
+      "Understand that changing size does not affect symmetry"
+    ]
+  },
+  {
+    "topic": "Symmetry and Holes/Cuts",
+    "content": "Explore asymmetrical planes, make designs by folding and cutting paper, and understand symmetry through exercises and challenges.",
+    "learning_objectives": [
+      "Understand the concept of asymmetry",
+      "Create designs using folding and cutting techniques",
+      "Identify line and rotational symmetry",
+      "Distinguish between line and rotational symmetry",
+      "Recognize shapes with multiple lines of symmetry",
+      "Draw shapes with line and rotational symmetry"
+    ]
+  },
+  {
+    "topic": "Symmetry in Shapes and Numbers",
+    "content": "A shape or number is symmetrical if it looks the same after being reflected across a line, known as the line of reflection or mirror line.",
+    "learning_objectives": [
+      "Identify symmetrical shapes on a dot grid.",
+      "List the digits from 0 to 9 that have the same mirror image.",
+      "Create a 4-digit number that remains the same when its mirror image is taken."
+    ]
+  },
+  {
+    "topic": "Symmetry",
+    "content": "Symmetry is a property of objects that are identical on both sides when divided by a line or plane.",
+    "learning_objectives": [
+      "Recognize symmetrical shapes",
+      "Create symmetrical shapes using tiles",
+      "Identify lines of symmetry in a given shape",
+      "Use mirrors to identify symmetrical words"
+    ]
+  },
+  {
+    "topic": "Creating Floor Patterns Using Tiles",
+    "content": "Use different shapes and colors to design unique tiles, discuss the visual impact of using multiple colors versus a single color, ensure that the floor pattern created with tiles is continuous and seamless",
+    "learning_objectives": [
+      "Ensure that the edges of tiles align perfectly to avoid gaps",
+      "Use a variety of shapes and colors to enhance the visual appeal of the design",
+      "Create a seamless pattern by practicing with different shapes and colors"
+    ]
+  },
+  {
+    "topic": "Symmetry in Nature",
+    "content": "In this section, we explore the concept of symmetry in nature. Symmetry refers to a balance or correspondence in size, shape, and relative position of parts on opposite sides of a dividing line or plane.",
+    "learning_objectives": [
+      "Understand what symmetry means in nature",
+      "Identify examples of symmetry in natural objects",
+      "Recognize the importance of symmetry in nature and its applications"
+    ]
+  },
+  {
+    "topic": "Leap Years",
+    "content": "Parv is celebrating his birthday with his friends. Let us join them. I was born on 29 February 2016. Years having the date 29 February are called leap years. Such years have one additional day in the year and occur every four years.",
+    "learning_objectives": [
+      "Understand what a leap year is",
+      "Recognize the occurrence pattern of leap years",
+      "Identify the extra day in a leap year"
+    ]
+  },
+  {
+    "topic": "Leap Year and Calendar Concepts",
+    "content": "# Educational Material: Leap Year and Calendar Concepts ## Chapter: Leap Year and Calendar Concepts ### Section: Understanding Leap Years #### Core Concept A leap year has 366 days instead of the usual 365 days. This extra day is added to the calendar to keep it synchronized with the Earth's revolutions around the Sun.",
+    "learning_objectives": [
+      "A leap year occurs every four years to account for the extra quarter of a day each year.",
+      "The extra day is added to the month of February, making it 29 days long instead of the usual 28.",
+      "Leap years are important for maintaining the accuracy of our calendar and ensuring that it aligns with the Earth's orbit."
+    ]
+  },
+  {
+    "topic": "Exploring Calendars and Lunar Phases",
+    "content": "Now find out what day is August 15? September 15? October 15? What pattern do you notice? Share in grade. Now choose a date and look up the day on which it falls. Challenge your friends to guess what day will the same date fall in the following month. Let Us Explore With the help of your parents and teachers, explore the names of the months in the Hindu/Islamic/Sikh or any other calendar of your community. 1. Find out when the year begins in each of these calendars. 2. Check how the names of the months in these calendars correspond to the months in the English calendar. 3. Identify the months from the Hindu/Islamic/Sikh or any other calendar in which some of the important festivals of the community fall. 4. Identify the dates of the new moon and full moon in your community's calendar every month. Do you notice any pattern? 5. How are the full moon or new moon days named in your community's calendar?",
+    "learning_objectives": [
+      "Understand the significance of full moon and new moon days in various cultures",
+      "Explore the relationship between lunar phases and the timing of festivals",
+      "Recognize the impact of lunar phases on the calendar"
+    ]
+  },
+  {
+    "topic": "Understanding AM and PM",
+    "content": "Help children understand the difference between AM and PM and how it eases communication about time among people.",
+    "learning_objectives": [
+      "Explain that AM is used for the time from midnight to noon and PM is used for the time from noon to midnight.",
+      "Discuss how AM and PM help us understand when an event happens.",
+      "Demonstrate how to read and write time using the 24-hour clock.",
+      "Show how digital clocks display time clearly and make it easier to read.",
+      "Identify common mistakes such as confusing AM with PM or not using the 24-hour clock appropriately.",
+      "Practice converting time between AM/PM and 24-hour clock formats."
+    ]
+  },
+  {
+    "topic": "Time Conversion and Addition",
+    "content": "Time is measured in hours and minutes. When we add minutes to a given time, we increase the minutes part of the time. If the minutes exceed 60, we convert the excess into hours and add it to the hours part.",
+    "learning_objectives": [
+      "Understand the division of time into 24 hours with AM and PM",
+      "Add minutes to a given time",
+      "Convert excess minutes into hours when necessary"
+    ]
+  },
+  {
+    "topic": "Time Conversion and Allocation",
+    "content": "This chapter covers the fundamental time conversion that one hour is equivalent to 60 minutes, and includes various time divisions such as half an hour, quarter of an hour, and three quarters of an hour.",
+    "learning_objectives": [
+      "Understand that one hour is equal to 60 minutes",
+      "Recognize that half an hour is 30 minutes",
+      "Identify that a quarter of an hour is 15 minutes",
+      "Determine that three quarters of an hour is 45 minutes",
+      "Convert between hours and minutes",
+      "Calculate time intervals in minutes"
+    ]
+  },
+  {
+    "topic": "Telling Time and Understanding Duration",
+    "content": "Time is measured in hours and minutes, a half-hour is the same as 30 minutes, a quarter-hour is the same as 15 minutes",
+    "learning_objectives": [
+      "Understand that time is measured in hours and minutes",
+      "Recognize that a half-hour equals 30 minutes",
+      "Identify that a quarter-hour equals 15 minutes"
+    ]
+  },
+  {
+    "topic": "Multiplication Concepts and Pictorial Representations",
+    "content": "Fill the yellow boxes with 1-digit numbers (multiplicands and multipliers) such that you get the products given in the white boxes. Fill the remaining white boxes with appropriate products. The product of the numbers in each row is given in the orange boxes. The product of the numbers in each column is given in the blue boxes. Identify appropriate numbers to fill the blank boxes. 56 54 63 48 42 50 60 35 32 42 45 21 Match each problem with the appropriate pictorial representation and write the answer. 2 10 = 2 Tens = 20 5 10 = 5 Tens = 50 8 10 = 8 Tens = 80 The Transport The Transport Museum Museum Reprint 2026-27 185 How many pebbles are there in this arrangement? _______ This is a 5 15 arrangement. There is an easy way to find this product by splitting the arrangement.",
+    "learning_objectives": [
+      "Understand the multiplication of single-digit numbers",
+      "Recognize the relationship between the products in rows and columns",
+      "Visualize multiplication through pictorial representations"
+    ]
+  },
+  {
+    "topic": "Multiples of 15",
+    "content": "To find multiples of 15, add 15 to the previous multiple.",
+    "learning_objectives": [
+      "Understand that multiples of 15 are found by adding 15 to the last multiple.",
+      "Recognize the pattern where each multiple of 15 increases by 15.",
+      "Realize that the times-15 table is similar to the times-5 table but with each step increasing by 10."
+    ]
+  },
+  {
+    "topic": "Multiplication Using Times Tables",
+    "content": "This section focuses on understanding and practicing multiplication through times tables.",
+    "learning_objectives": [
+      "Understand that multiplication is a way to combine equal groups of numbers",
+      "Recognize times tables as a visual representation of multiplication facts",
+      "Practice quick mental calculations using times tables"
+    ]
+  },
+  {
+    "topic": "Finding Total Number of Wheels",
+    "content": "Tara divides the total into two equal groups and doubles the count of one group to find the total number of wheels.",
+    "learning_objectives": [
+      "Splitting the total into two equal groups simplifies the counting process.",
+      "Doubling the count of one group gives the total number of wheels.",
+      "This method can be applied to other multiplication tables."
+    ]
+  },
+  {
+    "topic": "Multiplication by 10 and Place Value Addition",
+    "content": "21 10 = 210; 42 10 = 420; 65 10 = 650; 38 10 = 380; 53 10 = 530; 87 10 = 870; 12 buses can seat 240 people; 24 40 = 240; 50 60 = 500; 13 30 = 130; 43 60 = 430; 70 80 = 700",
+    "learning_objectives": [
+      "Understand the concept of place value",
+      "Learn to align numbers by their place values",
+      "Practice solving problems using the concept of place value"
+    ]
+  },
+  {
+    "topic": "Seating Capacity of a Toy Train",
+    "content": "A toy train has 15 coaches, and each coach can seat 14 children. To find out how many children can be seated in the toy train, multiply the number of coaches by the number of seats per coach. When there are leftover children after filling the coaches, they are considered as the remainder.",
+    "learning_objectives": [
+      "Multiply the number of coaches by the number of seats per coach to find the total seating capacity",
+      "Consider the remainder when there are leftover children after filling the coaches",
+      "Understand the concept of remainder in division problems"
+    ]
+  },
+  {
+    "topic": "Multiplication by 100",
+    "content": "Multiplication is a mathematical operation where you combine groups of equal size. When you multiply a number by 100, you are essentially adding two zeros to the end of that number.",
+    "learning_objectives": [
+      "Multiply by 100 by adding two zeros to the original number",
+      "Understand the relationship between multiplication problems to solve them more efficiently",
+      "Practice multiplication problems to master the concept"
+    ]
+  },
+  {
+    "topic": "Multiplication with Base-10 Numbers",
+    "content": "Multiplication is a mathematical operation where you combine equal groups. When you multiply a number by 10, 100, or 1000, you are essentially adding zeros to the end of the number.",
+    "learning_objectives": [
+      "Multiplying by 10 adds one zero to the number.",
+      "Multiplying by 100 adds two zeros to the number.",
+      "Multiplying by 1000 adds three zeros to the number."
+    ]
+  },
+  {
+    "topic": "Division in Context of Rice Sacks",
+    "content": "The concept of division is used to distribute a total amount into equal parts. In this case, we are dividing the total weight of rice by the weight that each sack can hold to find out how many sacks are needed.",
+    "learning_objectives": [
+      "Understand division as a mathematical operation",
+      "Recognize the quotient as the number of equal parts or groups",
+      "Apply division to determine the number of sacks needed for given amounts of rice"
+    ]
+  },
+  {
+    "topic": "Calculating Total Costs and Monthly Production",
+    "content": "There are 15 seats in the lower deck and 10 in the upper deck. How many seats will they need to occupy? Are there enough seats for everyone?",
+    "learning_objectives": [
+      "Understand the total number of seats available and the number of people attending to determine if there are enough seats.",
+      "Calculate the total cost of tickets by multiplying the cost per ticket by the number of tickets needed.",
+      "Determine the monthly production and earnings by multiplying the daily production or earnings by the number of days in a month."
+    ]
+  },
+  {
+    "topic": "Multiplication Patterns and Real-World Applications",
+    "content": "Identify patterns in multiplication problems and apply them to real-world scenarios.",
+    "learning_objectives": [
+      "Recognize the pattern in the digits of the product being the reverse of the digits of the numbers being multiplied.",
+      "Find other pairs of numbers that follow the same multiplication pattern.",
+      "Use the pattern to solve real-world problems like calculating vehicle capacities and change.",
+      "Understand why the pattern works based on the commutative property of multiplication."
+    ]
+  },
+  {
+    "topic": "Determining the Most Liked Subject Among Students",
+    "content": "The most liked subject among the students can be determined by analyzing the responses to the question 'Which subjects do you like?' The subject with the highest number of responses will be considered the most liked.",
+    "learning_objectives": [
+      "Collect the responses from the students.",
+      "Count the number of responses for each subject.",
+      "Identify the subject with the highest number of responses."
+    ]
+  },
+  {
+    "topic": "Favorite Subjects of Children",
+    "content": "Identify the most and least common favorite subjects among the children, determine the most popular subject, understand the importance of presenting data in an easily understandable format",
+    "learning_objectives": [
+      "Count the number of children who chose each subject",
+      "Present the data in a clear and concise manner",
+      "Analyze and visualize the preferences of children"
+    ]
+  },
+  {
+    "topic": "Color Preference in Snack Selection",
+    "content": "Children often choose their favorite colors when selecting snacks, such as gola.",
+    "learning_objectives": [
+      "Record the colors of the golas eaten by five different children.",
+      "Create a bar graph to represent the data collected.",
+      "Identify the most popular color gola among the children."
+    ]
+  },
+  {
+    "topic": "Data Representation and Analysis",
+    "content": "Which colour ice gola do the children eat: a) the most b) the least How do you know? 2. Which colour gola would Anjali and Rohan have bought? 3. Which colour golas did boys eat the most? 4. Which colour golas did girls eat the most? 5. Which of the ways of representing data did you use to answer these questions and why? Now let us organise the above data in the table. Nature of Games No. of Girls No. of Boys Chess but not Cricket Cricket but not Chess Both Neither Answer these questions based on the data collected from your grade. 1. Who plays Chess the most? _______ (Boys/Girls) 2. Who plays Cricket the most? _______ (Boys/Girls) 3. How many children play both types of games? _______ Reprint 2026-27 208 Bal Mela Anjali and Rohan have recorded the number of people who ate fruit chaats and sandwiches in the Bal Mela over three days, using a Pictograph.",
+    "learning_objectives": [
+      "To identify the most and least preferred ice gola colors",
+      "To analyze data on game preferences among classmates",
+      "To organize data in a table format for comparison"
+    ]
+  },
+  {
+    "topic": "Sales Data Analysis",
+    "content": "Complete the table and answer questions based on fruit chaats and sandwiches sales over three days.",
+    "learning_objectives": [
+      "Complete a table with given data",
+      "Identify the day with the highest sales of a specific item",
+      "Determine the item with the highest sale on a particular day"
+    ]
+  },
+  {
+    "topic": "Understanding Triangular Pyramids and Hexagonal Prisms",
+    "content": "# Chapter: Concept Block 162 ### Core Concept A triangular pyramid, also known as a tetrahedron, is a three-dimensional shape with four triangular faces, six straight edges, and four vertices. A hexagonal prism is a three-dimensional shape with two hexagonal bases and six rectangular faces.",
+    "learning_objectives": [
+      "Understand the structure of a triangular pyramid",
+      "Identify the components of a hexagonal prism",
+      "Recognize the difference between a triangular pyramid and a hexagonal prism"
+    ]
+  },
+  {
+    "topic": "Fundamental Principles of Addition and Subtraction",
+    "content": "This section explores the core concepts of addition and subtraction through real-world examples and scenarios.",
+    "learning_objectives": [
+      "Understand that addition combines two or more quantities to find a total.",
+      "Understand that subtraction determines the difference between quantities.",
+      "Recognize addition and subtraction as essential tools for everyday problem-solving."
+    ]
+  },
+  {
+    "topic": "Compare two quantities to find the difference",
+    "content": "Understand that comparing involves determining the relationship between two quantities. Use subtraction to find the difference when one quantity is larger than the other. Apply the concept to real-life scenarios to solidify understanding.",
+    "learning_objectives": [
+      "Understand the concept of comparing quantities",
+      "Use subtraction to find the difference between two quantities",
+      "Apply the comparison concept to solve real-life problems"
+    ]
+  }
+]

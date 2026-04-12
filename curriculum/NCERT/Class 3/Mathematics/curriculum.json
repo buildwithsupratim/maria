@@ -1,0 +1,1278 @@
+[
+  {
+    "topic": "Counting Cows",
+    "content": "Deba and Deep used a wall to count their cows by making a mark for each cow that left the gate and striking out a mark for each cow that returned.",
+    "learning_objectives": [
+      "Counting helps us know how many items we have.",
+      "Marks on a wall can keep track of items.",
+      "Striking out a mark shows an item has been counted."
+    ]
+  },
+  {
+    "topic": "Tracking Missing Cows",
+    "content": "Deba and Deep were worried because they couldn't find all the cows that were supposed to come home. They searched and found the cows in a nearby field. Hemant has 36 cows and 23 sheep.",
+    "learning_objectives": [
+      "Understand the importance of tracking missing items",
+      "Develop strategies to count large groups of objects without using numbers",
+      "Apply tracking methods in real-life scenarios"
+    ]
+  },
+  {
+    "topic": "Comparison of Names Based on Length and Alphabetical Order",
+    "content": "The concept being explored is the comparison of names based on length and alphabetical order.",
+    "learning_objectives": [
+      "Names can be compared by length and alphabetical order.",
+      "It's possible to identify the longest and shortest names among a group.",
+      "The starting and ending letters of names can be analyzed for patterns."
+    ]
+  },
+  {
+    "topic": "Relationship Between Number of Letters in a Number's Name and the Number Itself",
+    "content": "In this section, we explore the relationship between the number of letters in a number's name and the number itself.",
+    "learning_objectives": [
+      "Identify numbers with a specific number of letters in their names",
+      "Recognize unique letter counts in number names",
+      "Practice writing numbers by understanding their letter counts"
+    ]
+  },
+  {
+    "topic": "Numerical Names and Their Lengths",
+    "content": "In this section, we explore the concept of numerical names and their lengths.",
+    "learning_objectives": [
+      "Identify numbers with the longest and shortest names between 1 and 99",
+      "Understand the significance of numerical names in different contexts",
+      "Recognize the number with a two-word name where the first word has 6 letters and the second has 5 letters"
+    ]
+  },
+  {
+    "topic": "Grouping Objects",
+    "content": "She has grouped the cards into those that eat food and those that don't eat food. Jojo has arranged the same cards differently. Given below are pictures of some household objects.",
+    "learning_objectives": [
+      "Understand different grouping methods",
+      "Identify commonalities among objects",
+      "Apply grouping to new objects"
+    ]
+  },
+  {
+    "topic": "Properties of Geometric Shapes",
+    "content": "This section explores the properties of various geometric shapes such as cubes, cuboids, cones, and cylinders, learning to identify and differentiate between their faces, edges, and whether they are straight or curved.",
+    "learning_objectives": [
+      "Identify the number of faces, edges, and vertices of a cube",
+      "Differentiate between a cube and a cuboid",
+      "Recognize the unique features of a cone"
+    ]
+  },
+  {
+    "topic": "Understanding Basic Shapes and Their Combinations",
+    "content": "Shapes are the basic building blocks of objects, different shapes can be combined to create complex structures, recognizing shapes is essential for understanding and creating models",
+    "learning_objectives": [
+      "Identify the outline or silhouette of shapes from a distance",
+      "Combine shapes to create complex structures",
+      "Recognize and describe the shapes of everyday objects"
+    ]
+  },
+  {
+    "topic": "Identifying and Classifying Shapes in the Classroom",
+    "content": "Find the shapes in the classroom that look like the following shapes and fill in the table with their names. Circle cubes, put a tick against cones, put a cross against cylinders, and draw a box around cuboids. Name the shapes based on their features.",
+    "learning_objectives": [
+      "Identify common 3D shapes in the classroom environment",
+      "Classify shapes based on their characteristics",
+      "Recognize and differentiate between shapes with flat and curved faces"
+    ]
+  },
+  {
+    "topic": "Building shapes with cubes",
+    "content": "Cubes are 3D shapes with 6 equal square faces. Different shapes can be made by joining cubes in various ways. Understanding shapes helps us recognize patterns and solve problems.",
+    "learning_objectives": [
+      "Identify the properties of cubes",
+      "Describe how different shapes can be created using cubes",
+      "Explain the importance of understanding shapes"
+    ]
+  },
+  {
+    "topic": "Place Value in Decimal Number System",
+    "content": "Estimate the number of objects in given pictures and explain the decimal number system.",
+    "learning_objectives": [
+      "Understand the use of ten symbols in the decimal number system",
+      "Group numbers into sets of 5, 10, 20, and 60",
+      "Recognize the role of the symbol 0 in representing the absence of value",
+      "Identify the place value of digits in a number",
+      "Write numbers using the decimal system"
+    ]
+  },
+  {
+    "topic": "The Decimal System and the Role of Zero",
+    "content": "The decimal system is based on the number 0 and ten symbols, allowing any number to be written using just these symbols. It works because it's based on powers of 10, making it easy to represent large numbers.",
+    "learning_objectives": [
+      "Understand that the decimal system uses the number 0 and ten symbols.",
+      "Recognize how the decimal system represents numbers using powers of 10.",
+      "Identify the importance of the decimal system in mathematics and everyday life."
+    ]
+  },
+  {
+    "topic": "Counting and Understanding Numbers",
+    "content": "Representing numbers with matchsticks and adding numbers to reach a specific value, understanding the concept of a century",
+    "learning_objectives": [
+      "Represent numbers using matchsticks",
+      "Add numbers to reach a specific value",
+      "Understand the concept of a century"
+    ]
+  },
+  {
+    "topic": "Sum of 100",
+    "content": "Explore various methods to reach the sum of 100 using different combinations of numbers, using matchstick bundles to represent numbers, and filling in numbers to make a total of 100.",
+    "learning_objectives": [
+      "Understand how combining numbers can result in a sum of 100",
+      "Use matchstick bundles to visually represent numbers",
+      "Fill in numbers to achieve a total of 100"
+    ]
+  },
+  {
+    "topic": "Understanding the concept of counting and grouping to reach a specific number",
+    "content": "Counting individual items (seeds) and estimating quantities, grouping items (seeds) to reach a target number (100), recognizing patterns in numbers (multiples of 10)",
+    "learning_objectives": [
+      "Counting and grouping are fundamental skills in mathematics",
+      "Using bundles of 10 to reach a target number helps in understanding place value and the base-10 number system",
+      "Practicing counting and grouping improves accuracy"
+    ]
+  },
+  {
+    "topic": "Creating Numbers with Matchstick Bundles and Loose Sticks",
+    "content": "In this section, we explore the concept of creating numbers using matchstick bundles and loose sticks where a matchstick bundle represents a group of ten sticks and a loose stick represents a single stick.",
+    "learning_objectives": [
+      "Understand that matchstick bundles represent multiples of ten",
+      "Recognize that loose sticks represent the remaining units",
+      "Combine matchstick bundles and loose sticks to create any number above 100"
+    ]
+  },
+  {
+    "topic": "Number Line Representation and Beyond",
+    "content": "A visual guide to understanding numbers through a number line and various representations including symbols, games, and counting systems.",
+    "learning_objectives": [
+      "Understand the concept of a number line as a visual representation of numbers.",
+      "Identify symbols used to represent numbers in the Maths Mela game.",
+      "Count numbers beyond 150 using different symbols and systems."
+    ]
+  },
+  {
+    "topic": "Counting and Estimating",
+    "content": "Extend this table till 200 in your notebook. How much is 200? Let us Play Clap, Snap and Pat I can create numbers by clap, snap and pat. Guess the numbers I make. Reprint 2026-27 - Double Century - Write the numbers in order on the stones. - Fill a small container like a small bowl with seeds such as kidney beans, chickpeas, etc. - Look closely at the container to estimate how many seeds are in it. Your Estimate:......... seeds. - Now count and see how close your estimation is to the actual number of seeds. Counted......... seeds. - Guess how many times you need to fill the container to get close to 200 seeds? Your guess:......... times. I can show 200 on the number line too.",
+    "learning_objectives": [
+      "Understand the concept of counting and estimating",
+      "Estimate the number of seeds in a container",
+      "Count the exact number of seeds in a container"
+    ]
+  },
+  {
+    "topic": "Number Line Concepts",
+    "content": "A number line is a straight line with numbers placed at equal intervals, where numbers to the right of 0 are positive, and to the left are negative; the distance between two numbers represents their difference.",
+    "learning_objectives": [
+      "Understand the concept of marking numbers on a number line",
+      "Recognize that numbers to the right of 0 are positive and to the left are negative",
+      "Determine the difference between numbers based on their position on the number line"
+    ]
+  },
+  {
+    "topic": "Magic Trick with Marbles and Balushahi",
+    "content": "Chirag and Nandini enjoy spending time with their grandmother, Nani Maa, playing games and listening to her stories. She teaches them a magic trick involving hidden marbles.",
+    "learning_objectives": [
+      "Practice counting and guessing with the magic trick",
+      "Learn to pay attention to details and use imagination",
+      "Understand the importance of sharing and enjoying family time"
+    ]
+  },
+  {
+    "topic": "Adding Two Numbers Together to Find the Total",
+    "content": "Balushahi + 5 Balushahi = 12 Balushahi; 7 Balushahi + 5 Balushahi = 12 Balushahi; How many did he eat? 12 Balushahi; I too got balushahi for you. We got your favourite sweet; Both of them have brought a lot of things for their Nani Maa; I know you love to read, Nani Maa! So, we got some magazines for you; How many do we have in total? We bought the same number of balushahi from the shop; Did you eat some of them? Hahahaha! I did eat some.",
+    "learning_objectives": [
+      "Addition combines two or more numbers to find a total",
+      "The order of numbers does not change the total when adding",
+      "Use a tens frame to visualize and solve addition problems"
+    ]
+  },
+  {
+    "topic": "Card Collection Game with Math Operations",
+    "content": "Players collect cards with numbers and can keep a set of three cards if they form a math operation that equals a whole number. The game ends when all cards are opened, and the player with the most cards wins.",
+    "learning_objectives": [
+      "Players collect cards with numbers.",
+      "Players can keep a set of three cards if they form a math operation that equals a whole number.",
+      "The game ends when all cards are opened, and the player with the most cards wins."
+    ]
+  },
+  {
+    "topic": "Adding a collection of stamps to an existing collection",
+    "content": "When Nani Maa's brother gives Nani Maa a collection of 30 stamps, we add these to Nani Maa's existing collection of 22 stamps.",
+    "learning_objectives": [
+      "Understand the concept of addition through the combination of two sets of stamps",
+      "Calculate the total number of stamps after receiving a new collection",
+      "Identify the number of stamps with pictures of monuments after receiving a new collection"
+    ]
+  },
+  {
+    "topic": "Addition and Subtraction Using Number Line with Frog and Grasshopper",
+    "content": "The frog jumps forward by 10 each time, representing addition, while the grasshopper jumps backward by 10 each time, representing subtraction.",
+    "learning_objectives": [
+      "Understand that the frog's jumps represent addition on the number line.",
+      "Understand that the grasshopper's jumps represent subtraction on the number line.",
+      "Use the number line to calculate the final position after multiple jumps."
+    ]
+  },
+  {
+    "topic": "Using Number Grids for Addition and Subtraction",
+    "content": "A visual tool that helps see the patterns in numbers, adding numbers on the grid can be done by moving forward, while subtracting can be done by moving backward",
+    "learning_objectives": [
+      "Understand the use of a number grid as a visual tool",
+      "Learn to add numbers by moving forward on the grid",
+      "Learn to subtract numbers by moving backward on the grid"
+    ]
+  },
+  {
+    "topic": "Number Grid Navigation",
+    "content": "Nandini starts at number 45 on the number grid and moves forward by 34 spaces landing on 79.",
+    "learning_objectives": [
+      "Understand the number grid and navigation",
+      "Add numbers on the grid to find new positions",
+      "Move forward or backward on the grid"
+    ]
+  },
+  {
+    "topic": "Addition and Subtraction Fundamentals",
+    "content": "Addition combines two or more numbers to make a larger number, while subtraction takes away one number from another to make a smaller number.",
+    "learning_objectives": [
+      "Understand that addition can be expressed using words like 'more', 'added to', 'total', or 'sum'.",
+      "Recognize that subtraction can be described with terms such as 'take away', 'difference', 'less', or 'reduce'.",
+      "Observe patterns in numbers when making jumps with addition or subtraction."
+    ]
+  },
+  {
+    "topic": "Magic Square",
+    "content": "In this puzzle, each row and column contains the numbers 1 through 9 exactly once. The sum of the numbers in each row and column corresponds to the number in the box on the right and the box below, respectively.",
+    "learning_objectives": [
+      "Understand the concept of a magic square",
+      "Recognize that each number from 1 to 9 appears exactly once in each row and column",
+      "Calculate the sum of the numbers in each row and column",
+      "Create a 3x3 magic square using the numbers 1 to 9",
+      "Identify common mistakes in constructing a magic square"
+    ]
+  },
+  {
+    "topic": "Magic Squares",
+    "content": "Add the numbers in the blue boxes and the numbers in the red boxes in each of the puzzles. What do you find? Fill the blanks to complete the Magic square 5 2 8 15 3 1 6 10 9 4 7 20 17 7 21 3 9 6",
+    "learning_objectives": [
+      "Understand the concept of magic squares",
+      "Identify the sum of numbers in each row, column, and diagonal in a magic square",
+      "Create a 3x3 magic square using the numbers 1 to 9"
+    ]
+  },
+  {
+    "topic": "Addition of Radishes",
+    "content": "Nani Maa has plucked a total of 61 radishes, combining both red and white radishes.",
+    "learning_objectives": [
+      "Understand that addition is the process of combining two or more numbers to find their total.",
+      "Use visual aids like bundles and sticks, or a number line, to help solve addition problems.",
+      "Estimate totals by rounding numbers before calculating the exact sum."
+    ]
+  },
+  {
+    "topic": "Addition and Subtraction Using Real-Life Examples",
+    "content": "Exploring addition, subtraction, and comparison of quantities through real-life scenarios",
+    "learning_objectives": [
+      "Understand the concept of addition as combining quantities",
+      "Understand the concept of subtraction as finding the difference between quantities",
+      "Learn to compare quantities to determine which is greater or if they are equal",
+      "Apply addition and subtraction to solve problems involving real-life examples",
+      "Identify common mistakes in performing addition and subtraction",
+      "Revise the fundamental operations of addition, subtraction, and comparison"
+    ]
+  },
+  {
+    "topic": "Adding Two Numbers Together",
+    "content": "Adding two numbers together gives us the total amount. We can use objects or drawings to visualize addition. Addition can be used to compare amounts.",
+    "learning_objectives": [
+      "Combine numbers to find the total amount",
+      "Use objects or drawings to visualize addition problems",
+      "Compare amounts using addition"
+    ]
+  },
+  {
+    "topic": "Addition Game Strategy",
+    "content": "Two children play a game where they take turns adding a number between 1 and 10 to a running total starting at 9.",
+    "learning_objectives": [
+      "Understand the rules of the addition game.",
+      "Identify the winning condition of the game.",
+      "Calculate the next move to win the game."
+    ]
+  },
+  {
+    "topic": "Using a number line to solve addition and subtraction problems",
+    "content": "A visual tool for understanding the addition and subtraction of numbers, starting from any number with adjustable distances.",
+    "learning_objectives": [
+      "Understand the use of a number line for solving addition and subtraction problems.",
+      "Recognize that a number line can start from any number.",
+      "Adjust the distance between numbers as needed for the problem.",
+      "Use open number lines for flexible visualization of problems.",
+      "Identify common mistakes such as starting at the wrong number or not adjusting distances."
+    ]
+  },
+  {
+    "topic": "Rangoli Art and Shapes",
+    "content": "Create and analyze rangoli designs using shapes and lines",
+    "learning_objectives": [
+      "Identify common shapes used in rangoli designs",
+      "Distinguish between shapes made with curved and straight lines",
+      "Create a rangoli using both straight and curved lines"
+    ]
+  },
+  {
+    "topic": "Shapes and Their Properties",
+    "content": "In this section, we explore the concept of shapes and their properties. We will learn about different types of faces on 3D shapes and how they fit together to form objects like gift boxes.",
+    "learning_objectives": [
+      "Understand that shapes have faces, edges, and vertices",
+      "Recognize that rectangular faces are common in everyday objects",
+      "Appreciate how understanding shapes helps in practical tasks such as packaging"
+    ]
+  },
+  {
+    "topic": "Cuboid Properties",
+    "content": "A cuboid is a three-dimensional shape with six rectangular faces. Each face is a rectangle, and opposite faces are equal in size. A cuboid can be thought of as a stretched or flattened box. If you trace the faces of a cuboid, you will see that each face is a rectangle.",
+    "learning_objectives": [
+      "Understand that a cuboid has six rectangular faces.",
+      "Recognize that opposite faces of a cuboid are parallel and equal in size.",
+      "Identify that a rectangle has four sides and four right angles."
+    ]
+  },
+  {
+    "topic": "Properties of Squares and Rectangles",
+    "content": "A square is a special type of rectangle where all four sides are equal in length. A rectangle is a shape with four sides where opposite sides are equal in length, but the lengths of adjacent sides can be different.",
+    "learning_objectives": [
+      "Understand that a square has four equal sides and four right angles.",
+      "Recognize that a rectangle has opposite sides that are equal and four right angles.",
+      "Identify that a square is a type of rectangle with all sides equal."
+    ]
+  },
+  {
+    "topic": "Properties of Squares and Shape Formation",
+    "content": "A square has four equal sides and four right angles. When two squares are joined together, they can form a rectangle. By combining different numbers of squares, various shapes can be created.",
+    "learning_objectives": [
+      "Understand that a square has four equal sides and four right angles.",
+      "Recognize that joining two squares forms a rectangle.",
+      "Realize that combining different numbers of squares can create various shapes."
+    ]
+  },
+  {
+    "topic": "Properties of Square and Rectangle Corners",
+    "content": "# Book: cemm105.pdf ## Chapter: Unknown ### Section: Concept Block 41",
+    "learning_objectives": [
+      "Understand that a square and a rectangle both have four square corners forming 90-degree angles.",
+      "Identify objects with only square corners in the classroom.",
+      "Use paper strips to verify if corners are square.",
+      "Draw and label a square and a rectangle.",
+      "List three classroom objects with square corners.",
+      "Differentiate between right, acute, and obtuse angles.",
+      "Recognize that a rectangle has opposite sides equal.",
+      "Understand that both shapes have four corners, each a right angle."
+    ]
+  },
+  {
+    "topic": "Classification of Shapes Based on Corners",
+    "content": "Shapes can be classified based on the number of corners they have. A square corner is formed when two matchsticks are used to create a right angle.",
+    "learning_objectives": [
+      "Understand that shapes are classified by the number and type of corners.",
+      "Recognize that a square corner is a 90-degree angle.",
+      "Identify that shapes with less than a square corner have acute or obtuse angles."
+    ]
+  },
+  {
+    "topic": "Shapes: Triangles and Circles",
+    "content": "Count the number of triangles in the given rangoli. What is common to all these things? They have triangular faces. Triangles have three sides. They have three corners. A triangle has three sides and three corners. Circles are round and have no corners. Objects like coins and wheels are examples of circles.",
+    "learning_objectives": [
+      "Identify triangles based on their sides and corners",
+      "Recognize circular objects in everyday life",
+      "Distinguish between triangles and circles"
+    ]
+  },
+  {
+    "topic": "Understanding Basic Geometric Shapes and Their Properties",
+    "content": "When you fold a paper plate in half, the point where the folds meet is the center of the circle; shapes like squares and triangles have straight edges and corners; a rectangle is a shape with four straight sides and four right angles",
+    "learning_objectives": [
+      "Identify the center of a circle by folding it in half",
+      "Compare shapes based on their edges, corners, and number of sides",
+      "Describe the properties of a rectangle"
+    ]
+  },
+  {
+    "topic": "Shapes and Patterns",
+    "content": "How many triangles are there in the second figure? If I make one more row, how many triangles will be there in the third figure?",
+    "learning_objectives": [
+      "Identify the number of triangles in a given figure",
+      "Predict the number of triangles in a subsequent figure",
+      "Engage in a rectangle completion game"
+    ]
+  },
+  {
+    "topic": "Art of Flower Decoration",
+    "content": "Explore the art of flower decoration by creating designs with lines and curves inspired by grandma's sarees.",
+    "learning_objectives": [
+      "Understand the importance of lines and curves in decoration.",
+      "Learn how to incorporate both curved and straight lines in your designs.",
+      "Appreciate the aesthetic value of line borders in traditional attire."
+    ]
+  },
+  {
+    "topic": "Counting Objects Beyond 200",
+    "content": "This section teaches counting objects beyond 200 using the same number names.",
+    "learning_objectives": [
+      "Understand place value and adding larger numbers",
+      "Use the same number names to count objects in groups",
+      "Practice counting with different sets of objects"
+    ]
+  },
+  {
+    "topic": "Concept Block 48 - Counting",
+    "content": "Counting is a fundamental skill in mathematics that involves determining the number of items in a set. It is essential for everyday tasks and more complex mathematical operations.",
+    "learning_objectives": [
+      "Counting can be done by reciting numbers in sequence.",
+      "Grouping items in sets of 10 makes counting more efficient.",
+      "Counting requires attention to detail to ensure accuracy."
+    ]
+  },
+  {
+    "topic": "Understanding Large Numbers Using Matchsticks",
+    "content": "Understanding the concept of large numbers using matchsticks, writing numbers and number sentences with matchsticks, placing numbers on a number line and understanding their relative positions",
+    "learning_objectives": [
+      "To use matchsticks as a visual aid to represent large numbers",
+      "To write numbers and create number sentences using matchsticks",
+      "To place numbers on a number line and understand their relative positions"
+    ]
+  },
+  {
+    "topic": "Number Comparison and Estimation",
+    "content": "In this section, we explore the concept of number comparison and estimation. We will learn how to determine if a number is greater than, less than, or equal to another number.",
+    "learning_objectives": [
+      "Understand the concept of greater than, less than, and equal to.",
+      "Learn to compare numbers using visual aids like the flag game.",
+      "Practice estimating numbers within a given range."
+    ]
+  },
+  {
+    "topic": "Number Names and Letter Counts",
+    "content": "Write down a number, count the letters in its name, and form a new number.",
+    "learning_objectives": [
+      "Understand the concept of number names and their corresponding letter counts.",
+      "Form new numbers by counting the letters in given number names.",
+      "Identify common mistakes in counting letters and forming new numbers."
+    ]
+  },
+  {
+    "topic": "Understanding Distance on Number Lines",
+    "content": "Support children to pay attention to the different jumps required in the above number lines. Teacher to also support children to understand quantities that the numbers represent using matchstick bundles or any other similar material.",
+    "learning_objectives": [
+      "Explain the concept of distance on a number line in simple language.",
+      "Compare quantities using number lines.",
+      "Apply the concept of distance to real-life scenarios."
+    ]
+  },
+  {
+    "topic": "Multiplication and Laddoo Calculation",
+    "content": "Understand the concept of multiplication as repeated addition and apply it to calculate the total number of laddoos.",
+    "learning_objectives": [
+      "Understand the concept of multiplication as repeated addition.",
+      "Learn how to multiply two numbers to find the total.",
+      "Apply the multiplication concept to solve real-world problems."
+    ]
+  },
+  {
+    "topic": "House Delivery Task and Number Patterns",
+    "content": "Arvind Dada has to deliver sweets to houses 209, 228, 242, 258, 267, 276, 290, 315, 346, 367, 389, 395; write floor and column numbers for houses 13, 106, 192, 245, 380; observe patterns in house numbers; explain the pattern; solve questions on house numbers; color delivery houses; write floor and column number for house 380; identify common mistakes; quick revision points; find a 3-digit number based on clues.",
+    "learning_objectives": [
+      "Identify and color houses for delivery",
+      "Write floor and column numbers for given houses",
+      "Observe and describe patterns in house numbers",
+      "Explain the observed patterns in simple language",
+      "Solve problems related to house numbers",
+      "Color the delivery houses",
+      "Write floor and column number for a specific house",
+      "Identify common mistakes in house numbering",
+      "Quickly revise key points about house numbering",
+      "Determine a 3-digit number based on given clues"
+    ]
+  },
+  {
+    "topic": "Understanding Dienes Blocks for Number Representation",
+    "content": "Dienes blocks are a mathematical tool used to teach place value and number representation.",
+    "learning_objectives": [
+      "Understand that Dienes blocks consist of units (U), tens (T), and hundreds (H)",
+      "Recognize that each house number represents the total number of sweets using the format H T O",
+      "Identify that Arvind Dada packs sweets in boxes of 100 (H), 10 (T), and as packets of loose sweets (O)"
+    ]
+  },
+  {
+    "topic": "Division and Multiplication in Grouping",
+    "content": "This section explores the concept of division and multiplication as it relates to grouping objects.",
+    "learning_objectives": [
+      "Understand division as the process of splitting a larger group into smaller, equal groups.",
+      "Recognize multiplication as repeated addition, the opposite of division.",
+      "Appreciate the importance of understanding the relationship between multiplication and division for solving grouping problems."
+    ]
+  },
+  {
+    "topic": "Understanding place value and comparing numbers",
+    "content": "Place value determines the value of a digit based on its position. Comparing numbers involves looking at the value of digits from left to right.",
+    "learning_objectives": [
+      "Start comparing numbers with the highest place value",
+      "Move to the next place value if the digits are the same",
+      "Recognize that more hundreds are more than more tens or ones",
+      "Avoid comparing numbers from right to left",
+      "Identify the core concept of place value"
+    ]
+  },
+  {
+    "topic": "Comparing Numbers",
+    "content": "Compare the following numbers and use the signs >, < appropriately.",
+    "learning_objectives": [
+      "Start comparing numbers from the leftmost digit",
+      "Move to the next digit if the current digits are the same",
+      "The number with the greater digit in the first differing place is larger",
+      "Identify the smallest number in a given set",
+      "Determine which number is greater based on the value of each digit"
+    ]
+  },
+  {
+    "topic": "Identifying Greatest and Smallest Numbers and Creating 3-Digit Numbers",
+    "content": "To find the greatest number in a set, compare each number and choose the one with the highest value. To find the smallest number in a set, compare each number and choose the one with the lowest value. When creating 3-digit numbers, the value of each digit depends on its place (hundreds, tens, ones).",
+    "learning_objectives": [
+      "Identify the greatest number in a set by comparing values",
+      "Identify the smallest number in a set by comparing values",
+      "Create 3-digit numbers using specific digits"
+    ]
+  },
+  {
+    "topic": "Raksha Bandhan",
+    "content": "Tomorrow is Gopal's favourite festival. Gopal and Dhara are very excited. Their beloved Atya (father's sister) is visiting them today. They have cleaned and decorated their house.",
+    "learning_objectives": [
+      "Understand the significance of Raksha Bandhan",
+      "Count and identify objects related to Raksha Bandhan",
+      "Calculate the number of materials needed for making Rakhis"
+    ]
+  },
+  {
+    "topic": "Making Rakhis",
+    "content": "We need to make 5 Rakhis. Each Rakhi uses 4 beads and 1 flower.",
+    "learning_objectives": [
+      "To make one Rakhi, you need 4 beads and 1 flower.",
+      "To make 5 Rakhis, you need 5 times the amount of beads and flowers needed for one Rakhi.",
+      "The total number of beads needed for 5 Rakhis is 20."
+    ]
+  },
+  {
+    "topic": "Division of Laddoos",
+    "content": "To find out how many laddoos each person gets when they are shared equally, you divide the total number of laddoos by the number of people.",
+    "learning_objectives": [
+      "Division is the process of sharing equally.",
+      "The total number of items is divided by the number of recipients.",
+      "The result is the number of items each recipient gets."
+    ]
+  },
+  {
+    "topic": "Distribute kaju katlis equally among 4 people",
+    "content": "Understand the concept of equal distribution, learn how to divide a total number of items by the number of recipients, apply the concept to real-life scenarios",
+    "learning_objectives": [
+      "Understand the concept of equal distribution",
+      "Learn how to divide a total number of items by the number of recipients",
+      "Apply the concept to real-life scenarios"
+    ]
+  },
+  {
+    "topic": "Division Concepts and Applications",
+    "content": "This section covers the concept of division through various examples and exercises involving sharing items equally.",
+    "learning_objectives": [
+      "Understand division as a mathematical operation that splits a number into equal parts",
+      "Apply division to distribute items equally among a certain number of people",
+      "Use division to determine the number of groups that can be formed from a given number of items",
+      "Solve problems related to sharing items equally using division",
+      "Identify common mistakes in division problems"
+    ]
+  },
+  {
+    "topic": "Multiplication and Real-Life Applications",
+    "content": "Understand multiplication as equal groups and apply it to solve real-life problems such as counting jalebis and calculating farm produce.",
+    "learning_objectives": [
+      "Understand the concept of multiplication as equal groups",
+      "Recognize different ways to group numbers",
+      "Apply multiplication to solve real-life problems"
+    ]
+  },
+  {
+    "topic": "Counting by Twos",
+    "content": "They see a lot of chickens there. Let us count chickens in the farm! 1 times 2 is 2 or, 1 2 = 2 2 times 2 is 4 or, 2 2 = 4 3 times 2 is 6 or, 3 2 = 6 4 times 2 is 8 or, 4 2 = 8 5 times 2 is 10 or, 5 2 = 10 6 times 2 is 12 or, 6 2 = 12 7 times 2 is 14 or, 7 2 = 14 8 times 2 is 16 or, 8 2 = 16 9 times 2 is 18 or, 9 2 = 18 10 times 2 is 20 or, 10 2 = 20",
+    "learning_objectives": [
+      "Counting by twos is a simple addition pattern where you add 2 to the previous number.",
+      "Counting by twos helps us quickly add numbers in a sequence.",
+      "This pattern is useful for understanding even numbers and skip counting.",
+      "It can be applied to various real-life situations, like counting objects in pairs."
+    ]
+  },
+  {
+    "topic": "Skip Jumping Activity with Multiples of 3",
+    "content": "Dhara jumps over numbers that are multiples of 3 starting from 3 and increasing by 3 each time.",
+    "learning_objectives": [
+      "Understand the skip jumping pattern involving multiples of 3.",
+      "Identify the sequence of numbers Dhara jumps over.",
+      "Predict the next numbers in the sequence based on the pattern."
+    ]
+  },
+  {
+    "topic": "Skip Jumping and Times Tables",
+    "content": "Skip jumping is a method of skip counting used to create multiplication tables. It involves jumping a certain number of steps each time, which corresponds to the number being multiplied.",
+    "learning_objectives": [
+      "Understand that skip jumping helps visualize multiplication as repeated addition",
+      "Recognize that the number of jumps represents the multiplier in a multiplication problem",
+      "Identify that the distance between jumps corresponds to the multiplicand"
+    ]
+  },
+  {
+    "topic": "Skip Counting and Multiplication Tables",
+    "content": "Atya places a flower on 12. Skip jump with equal steps to reach the flower.",
+    "learning_objectives": [
+      "Understand skip counting to reach a target number",
+      "Explore the concept of multiplication through a fun game",
+      "Identify numbers that can only be reached through skip jumping by 1"
+    ]
+  },
+  {
+    "topic": "Multiplication by 5",
+    "content": "Multiplication is a mathematical operation where you combine groups of equal size. When you multiply a number by 5, you are essentially adding that number to itself five times.",
+    "learning_objectives": [
+      "Understand that multiplication involves combining groups of equal size.",
+      "Recognize the pattern in the last digit when multiplying by 5.",
+      "Identify the alternating last digits (0 and 5) in the multiplication table of 5."
+    ]
+  },
+  {
+    "topic": "Addition and Its Properties",
+    "content": "They have a relation between them. Can you see it? Is there a relation between the two circled numbers and the boxed number? Does this happen for the next rows also? Can you find other examples of two tables adding up to a third table?",
+    "learning_objectives": [
+      "Understand that addition combines numbers to make a new total",
+      "Recognize the commutative property of addition",
+      "Apply addition to solve real-world problems"
+    ]
+  },
+  {
+    "topic": "Arithmetic Problems and Concepts",
+    "content": "She gives 7 sea-shells to each of her 5 friends. How many does she have left? Solve the following problems. (a) 4 9 (b) 32 8 (c) 6 7 (d) 45 5 Help Bhim! Bhim will need........ spokes. First 10 wheels will have 50 spokes. Another 10 wheels will need 50 spokes. So, the total number of spokes needed is 50 + 50 = 100 spokes. Try these 30 5 = 150.",
+    "learning_objectives": [
+      "Understand the concept of distributing items equally among a group",
+      "Apply multiplication to find the total number of items needed for multiple groups",
+      "Use addition to combine totals from different groups"
+    ]
+  },
+  {
+    "topic": "Concept Block 74 - Spokes in Wheels",
+    "content": "Each wheel requires 5 spokes. The number of spokes available determines the number of wheels that can be made. The pattern of spokes and wheels follows a simple arithmetic sequence.",
+    "learning_objectives": [
+      "Understand that each wheel requires 5 spokes.",
+      "Determine the number of wheels that can be made from a given number of spokes.",
+      "Recognize that only whole wheels can be made, not partial wheels."
+    ]
+  },
+  {
+    "topic": "Wheels with Spokes and Frog Jumps Using Modular Arithmetic",
+    "content": "To make a wheel, you need an even number of spokes. If Gopal has 60 spokes, he can make 30 wheels, each with 2 spokes. A frog can make jumps of 7, and we can use modular arithmetic to determine the sequence of jumps. The largest number the frog can reach before crossing 50 by jumping in multiples of 7 is 49.",
+    "learning_objectives": [
+      "Understand the requirement of an even number of spokes for making wheels",
+      "Calculate the number of wheels that can be made with a given number of spokes",
+      "Use modular arithmetic to analyze the sequence of a frog's jumps",
+      "Determine the largest number a frog can reach before crossing a certain limit by jumping in multiples of a specific number"
+    ]
+  },
+  {
+    "topic": "Counting and Basic Arithmetic",
+    "content": "In this section, we explore the concept of counting and basic arithmetic, including addition, subtraction, multiplication, and division, and applying these operations to solve real-world problems.",
+    "learning_objectives": [
+      "Understand the concept of counting and quantity.",
+      "Master basic arithmetic operations (addition, subtraction, multiplication, division).",
+      "Apply arithmetic to solve real-world problems."
+    ]
+  },
+  {
+    "topic": "Counting Legs of Cows",
+    "content": "The total number of legs in the line is 6. Micky, the mouse, sees 48 legs of cows, which means there are 7 cows in the shed because each cow has 4 legs. Karry, the crow, sees 24 horns, which are the same as the number of legs, confirming there are 7 cows. The total number of legs in the shed is 7 cows multiplied by 4 legs each, which equals 28 legs.",
+    "learning_objectives": [
+      "Counting the total number of legs in a group of animals",
+      "Understanding that cows have 4 legs each",
+      "Multiplying the number of animals by the number of legs each animal has to find the total number of legs"
+    ]
+  },
+  {
+    "topic": "Shell Necklaces and Distribution",
+    "content": "To make a necklace, you need a certain number of shells. If you have more shells than needed for one necklace, you can make additional necklaces.",
+    "learning_objectives": [
+      "One necklace requires a specific number of shells.",
+      "Shells can be distributed equally among friends.",
+      "Money can be exchanged for smaller denominations."
+    ]
+  },
+  {
+    "topic": "Division as Repeated Subtraction",
+    "content": "Division can be understood as repeated subtraction, where you subtract the divisor from the dividend until you reach zero or a remainder.",
+    "learning_objectives": [
+      "Understand division as the inverse of multiplication",
+      "Use repeated subtraction for division when multiplication tables are unknown",
+      "Apply division in real-life scenarios"
+    ]
+  },
+  {
+    "topic": "Sharing Objects Equally",
+    "content": "To share a whole paratha or chocolate equally, you need to divide it into two parts that are the same size.",
+    "learning_objectives": [
+      "To share a whole paratha or chocolate equally, divide it into two parts that are the same size.",
+      "Shabnam folding the paratha over itself is a way to divide it into two equal parts.",
+      "When sharing between two people, each person should get one-half of the whole."
+    ]
+  },
+  {
+    "topic": "Understanding Halves",
+    "content": "A half represents one of two equal parts of a whole.",
+    "learning_objectives": [
+      "Identify a half as one of two equal parts of a whole",
+      "Represent a half visually by dividing a shape into two equal parts",
+      "Understand that there are multiple ways to create a half",
+      "Apply the concept of dividing a whole into halves in sharing scenarios",
+      "Recognize that a half is a fundamental concept in mathematics",
+      "Determine the number of halves in a whole",
+      "Name two different ways to divide a shape into halves",
+      "Understand that eating half of something leaves a half remaining",
+      "Draw a circle and show two different ways to divide it into halves",
+      "Calculate the number of halves left after consuming a portion",
+      "Avoid confusing a half with a quarter",
+      "Consider various shapes when representing a half",
+      "Understand that sharing equally is an example of dividing a whole into halves"
+    ]
+  },
+  {
+    "topic": "Half and Double Concepts",
+    "content": "Half of a number is the same as dividing the number by 2. Double of a number is the same as multiplying the number by 2.",
+    "learning_objectives": [
+      "Understand that half means dividing by 2",
+      "Understand that double means multiplying by 2",
+      "Apply half and double concepts to share and compare quantities"
+    ]
+  },
+  {
+    "topic": "Fractions and Whole Numbers",
+    "content": "In this section, we explore the relationship between fractions and whole numbers, specifically how fractions can represent parts of a whole and how they can be compared to each other.",
+    "learning_objectives": [
+      "Understand that a fraction represents a part of a whole.",
+      "Compare fractions to determine which is larger or smaller.",
+      "Recognize that doubling a fraction gives a larger fraction while halving a fraction gives a smaller fraction."
+    ]
+  },
+  {
+    "topic": "Dividing a Whole into Equal Parts (Quarters)",
+    "content": "A quarter represents one-fourth of a whole, which is a fundamental concept in understanding fractions. To divide a whole into quarters, we can fold a paper in half twice. Each quarter represents an equal part of the whole when combined.",
+    "learning_objectives": [
+      "Understand that a quarter is one-fourth of a whole.",
+      "Learn how to divide a whole into quarters by folding a paper in half twice.",
+      "Recognize that each quarter is an equal part of the whole when combined."
+    ]
+  },
+  {
+    "topic": "Understanding fractions and their representation",
+    "content": "Fractions are a way to represent parts of a whole. A quarter (1/4) is one part of four equal parts. A half (1/2) is one part of two equal parts.",
+    "learning_objectives": [
+      "Understand that fractions represent parts of a whole",
+      "Recognize that a quarter (1/4) is one part of four equal parts",
+      "Recognize that a half (1/2) is one part of two equal parts"
+    ]
+  },
+  {
+    "topic": "Counting Objects in Motion",
+    "content": "Estimation is a skill used to make an educated guess about an unknown quantity. Logical reasoning helps us to make sense of patterns and predict outcomes. Observation and experience can inform our estimates.",
+    "learning_objectives": [
+      "Estimate the number of crows in the city.",
+      "Identify factors affecting estimation.",
+      "Use logical reasoning to improve estimation.",
+      "Estimate the number of students in your class.",
+      "Estimate the number of peanuts in a cart.",
+      "Avoid overestimating or underestimating based on limited observation.",
+      "Use patterns and experience when making an estimate."
+    ]
+  },
+  {
+    "topic": "Understanding Large Numbers and Place Value",
+    "content": "Show a 1000 ginladi to understand how large 1000 is. Also, show the hundreds after 500 on this ginladi: 600, 700, 800, 900, 1000. What are you carrying? How many are there? Draw tiles like the driver to show the following numbers. You can do it in your notebook. (a) 832 (b) 947 (c) 726 (d) 504 (e) 620 (f) 700",
+    "learning_objectives": [
+      "Understand the value of numbers and their place in the number line",
+      "Recognize the sequence of hundreds after 500",
+      "Use tiles to visualize and count numbers"
+    ]
+  },
+  {
+    "topic": "Crane's Feeding Behavior",
+    "content": "The crane uses a series of jumps to reach its food.",
+    "learning_objectives": [
+      "The crane can reach its food in 2 or 3 jumps.",
+      "The crane can reach the worm, the fish, or the fish."
+    ]
+  },
+  {
+    "topic": "Understanding the relationships between numbers and how to represent them in different ways",
+    "content": "Recognize patterns in numbers and use them to predict the next number in a sequence, learn to represent numbers using number sentences and concrete representations like matchsticks, blocks, or a number line, develop skills in solving number patterns and puzzles by interpreting given scaffolds",
+    "learning_objectives": [
+      "Recognize patterns in numbers",
+      "Predict the next number in a sequence",
+      "Represent numbers using number sentences and concrete representations",
+      "Solve number patterns and puzzles",
+      "Interpret given scaffolds"
+    ]
+  },
+  {
+    "topic": "Arithmetic Operations: Addition and Subtraction",
+    "content": "This section introduces the fundamental principles of arithmetic operations, focusing on addition and subtraction.",
+    "learning_objectives": [
+      "Understand that addition combines two or more numbers to form a larger number.",
+      "Understand that subtraction finds the difference between two numbers.",
+      "Recognize the importance of both operations in solving mathematical problems."
+    ]
+  },
+  {
+    "topic": "Number of Children in Your School",
+    "content": "Understanding the population of a school and its impact on resource planning.",
+    "learning_objectives": [
+      "Understand that schools have a varying number of students.",
+      "Recognize that the number of children can be counted and recorded.",
+      "Realize that the number of students helps in planning school resources.",
+      "Understand that larger schools may require more resources."
+    ]
+  },
+  {
+    "topic": "Identifying and Creating Numbers Using Given Numerical Slips",
+    "content": "Understand the concept of palindromic numbers and numbers with repeating digits, learn how to create the largest and smallest numbers using given numerical slips, recognize the limitations in creating certain numbers with the provided slips.",
+    "learning_objectives": [
+      "Understand the concept of palindromic numbers",
+      "Learn how to create the largest number possible with the slips",
+      "Recognize the limitations in creating certain numbers with the provided slips"
+    ]
+  },
+  {
+    "topic": "Creating Numbers with Digits 3 and 8",
+    "content": "Understand that numbers can be formed by arranging digits in different orders, learn that the same digits can be repeated to create multiple numbers, recognize that the smallest and largest numbers can be formed by arranging the digits in ascending and descending order, respectively",
+    "learning_objectives": [
+      "Understand that numbers can be formed by arranging digits in different orders",
+      "Learn that the same digits can be repeated to create multiple numbers",
+      "Recognize that the smallest and largest numbers can be formed by arranging the digits in ascending and descending order, respectively"
+    ]
+  },
+  {
+    "topic": "Moon",
+    "content": "The Moon is a natural satellite that orbits the Earth.",
+    "learning_objectives": [
+      "Understand that the Moon reflects sunlight, making it visible at night.",
+      "Identify the different phases of the Moon and their sequence.",
+      "Explain how the Moon's position relative to Earth and the Sun causes its phases.",
+      "Describe the Moon's influence on Earth's tides.",
+      "Differentiate between Waxing and Waning Moons.",
+      "Draw the Moon in each of its phases.",
+      "Explain how the Moon's phases affect the night sky."
+    ]
+  },
+  {
+    "topic": "Measurement Concepts",
+    "content": "Measurement is the process of determining the size, length, or amount of something.",
+    "learning_objectives": [
+      "Understand that children use various informal and formal tools to measure length.",
+      "Recognize that measurement can be done using body parts like hand spans or footsteps.",
+      "Realize that multiple methods to measure the same object may result in different measurements.",
+      "Comprehend that measurement works by comparing an object's length to a known standard.",
+      "Identify common mistakes in measurement such as assuming all children's hand spans are the same length and not using a consistent method.",
+      "Revise that different tools and methods can be used for measuring and that measurements can vary depending on the method used."
+    ]
+  },
+  {
+    "topic": "Comparing Lengths and Paper String Decoration",
+    "content": "Identifying the shortest and longest paper strings, calculating the number of additional colorful paper strings needed for decoration, understanding the process of decorating the entire border of a board",
+    "learning_objectives": [
+      "Identify the shortest string",
+      "Identify the longest string",
+      "Calculate the number of additional paper strings needed",
+      "Decorate the border of a board",
+      "Measure paper strings accurately"
+    ]
+  },
+  {
+    "topic": "Determining if a Table Can Pass Through a Door",
+    "content": "Measure the table's length and breadth, measure the door's width, and compare the measurements.",
+    "learning_objectives": [
+      "Measure the dimensions of a table and a door.",
+      "Compare the table's dimensions to the door's width.",
+      "Understand that a table won't fit through a door if its length or breadth is greater than the door's width."
+    ]
+  },
+  {
+    "topic": "Concept Block 98",
+    "content": "In this section, we explore the idea of objects that cannot pass through a school gate and the concept of creating a bridge with everyday items.",
+    "learning_objectives": [
+      "Understand that objects larger than the school gate's opening cannot pass through it.",
+      "Learn to construct a bridge using boxes or bags to connect two points.",
+      "Recognize the efficiency of using a paper strip over a pencil for measuring longer distances."
+    ]
+  },
+  {
+    "topic": "Measuring Saree Length",
+    "content": "To measure the length of a saree, we can use a paper strip that is the same length as one arm.",
+    "learning_objectives": [
+      "Use a paper strip that matches the length of one arm to measure the saree.",
+      "Understand that a metre rod or inch tape can be used to measure cloth in a shop.",
+      "Recognize the simplicity and effectiveness of the paper strip method for small lengths."
+    ]
+  },
+  {
+    "topic": "Concept Block 100 - Measure Your Height and Objects",
+    "content": "Measure heights and lengths of objects using one metre, half metre, and quarter metre ropes.",
+    "learning_objectives": [
+      "Mark one metre on the wall of the class",
+      "Write names of friends whose heights are more than or less than one metre",
+      "Discuss and circle the tallest child",
+      "Write names of objects whose length is more than, less than, or equal to one metre",
+      "Use one metre, half metre, and quarter metre ropes to find object lengths",
+      "Explain why the concept works with examples",
+      "Answer questions to check understanding",
+      "Complete exercises for practice",
+      "Identify common mistakes",
+      "Revise key points"
+    ]
+  },
+  {
+    "topic": "Measurement and Estimation Using Metre Rope",
+    "content": "Write their names and tick in the appropriate boxes.",
+    "learning_objectives": [
+      "Explain the measurement of distance using a metre rope.",
+      "Demonstrate estimation and comparison of lengths.",
+      "Divide a metre rope into equal parts."
+    ]
+  },
+  {
+    "topic": "Understanding Volume of Liquid in Glasses",
+    "content": "Children should understand that the volume of liquid a glass can hold is determined by its size. A larger glass can hold more liquid than a smaller one.",
+    "learning_objectives": [
+      "Understand that the volume of a glass is determined by its size.",
+      "Recognize that a larger glass can hold more liquid than a smaller one.",
+      "Learn to compare glasses by pouring their contents into identical glasses."
+    ]
+  },
+  {
+    "topic": "Volume and Capacity",
+    "content": "In this section, we explore the concept of volume and capacity. Volume refers to the amount of space an object occupies, while capacity is the amount of liquid a container can hold.",
+    "learning_objectives": [
+      "Understand the importance of volume and capacity in everyday tasks such as cooking and measuring liquids.",
+      "Compare different vessels by their capacities using water.",
+      "Estimate and compare volumes using common household items."
+    ]
+  },
+  {
+    "topic": "Understanding Capacity and Volume",
+    "content": "Children may get different vessels but they should be able to draw conclusions about their capacity. Reprint 2026-27",
+    "learning_objectives": [
+      "Understand the concept of capacity and volume",
+      "Recognize the relationship between different containers and their capacities",
+      "Perform the process of filling and transferring liquids between containers"
+    ]
+  },
+  {
+    "topic": "Volume Measurement and Capacity",
+    "content": "Nita pours water from the bottle into the jug. The jug is exactly 1 litre.",
+    "learning_objectives": [
+      "Identify which vessel holds exactly 1 litre",
+      "Determine if a vessel holds more or less than 1 litre",
+      "Measure the capacity of a vessel using a 1-litre measuring bottle"
+    ]
+  },
+  {
+    "topic": "Measuring and Comparing Water Volumes",
+    "content": "Understand the concept of volume measurement, learn to identify containers that hold more or less than 1 litre, recognize that 4 quarter litre glasses equal 1 litre and 2 half litre mugs equal 1 litre",
+    "learning_objectives": [
+      "Understand the concept of volume measurement",
+      "Learn to identify containers that hold more or less than 1 litre",
+      "Recognize that 4 quarter litre glasses equal 1 litre and 2 half litre mugs equal 1 litre"
+    ]
+  },
+  {
+    "topic": "Concept of Weight",
+    "content": "In this section, we explore the concept of weight and how to compare the weight of different objects.",
+    "learning_objectives": [
+      "Understand that weight is a measure of how heavy an object is",
+      "Learn to compare the weight of objects by holding them in hands or using a balance scale",
+      "Recognize that heavier objects have more mass and will tend to go down when held"
+    ]
+  },
+  {
+    "topic": "Weight Measurement Using Matchboxes",
+    "content": "Fill a matchbox with sand and use this to weigh the following objects. Guess the weight in terms of matchboxes and then verify.",
+    "learning_objectives": [
+      "Guess the weight of objects using matchboxes",
+      "Verify the guessed weight using a pan-balance",
+      "Order objects based on their weight"
+    ]
+  },
+  {
+    "topic": "Identifying Object Weights Using a Pan-Balance",
+    "content": "Objects are categorized by weight using a pan-balance to compare their weight to a known 1 kilogram salt packet.",
+    "learning_objectives": [
+      "Identify objects that weigh a quarter kilogram and a half kilogram.",
+      "Use a pan-balance to compare the weight of unknown objects to a known weight.",
+      "Determine the heaviest and lightest objects using a pan-balance."
+    ]
+  },
+  {
+    "topic": "Addition and Subtraction of Numbers",
+    "content": "Kishan had 364 saplings and acquired 52 more from his friend's village.",
+    "learning_objectives": [
+      "Understand the concept of addition",
+      "Perform addition of two-digit and three-digit numbers",
+      "Solve real-life problems involving addition"
+    ]
+  },
+  {
+    "topic": "Maths Mela | Class 3",
+    "content": "Kishan needs to deliver 230 saplings to a school. He has already packed 75 saplings.",
+    "learning_objectives": [
+      "Subtraction is used to find the difference between two numbers.",
+      "The number line can be a helpful visual tool for subtraction.",
+      "Understanding the place value system (hundreds, tens, and ones) is crucial for solving subtraction problems."
+    ]
+  },
+  {
+    "topic": "Subtraction with Hundreds, Tens, and Ones",
+    "content": "Subtracting a smaller number from a larger number by taking away the corresponding hundreds, tens, and ones. Understanding the value of each place in a three-digit number. Using visual aids like Dienes blocks and number lines to visualize subtraction.",
+    "learning_objectives": [
+      "To subtract a smaller number from a larger number by removing the corresponding hundreds, tens, and ones.",
+      "To understand the value of each place in a three-digit number.",
+      "To use visual aids such as Dienes blocks and number lines to visualize subtraction."
+    ]
+  },
+  {
+    "topic": "Addition and Subtraction Using a Grid",
+    "content": "This section explores the concept of addition and subtraction using a grid to visualize changes in numbers.",
+    "learning_objectives": [
+      "Understand that adding 100 to a number increases its value by 100",
+      "Understand that adding 10 to a number increases its value by 10",
+      "Understand that adding 1 to a number increases its value by 1"
+    ]
+  },
+  {
+    "topic": "Exchange and Bartering",
+    "content": "People in the village exchanged goods like vegetables, clothes, and grains instead of using money.",
+    "learning_objectives": [
+      "Understand the concept of exchange",
+      "Recognize that people exchange goods based on perceived value",
+      "Identify how money simplifies the exchange process"
+    ]
+  },
+  {
+    "topic": "Understanding and Using Money",
+    "content": "Match the notes and coins to their equivalent values, learn to make change, and understand the value of money in real-life transactions.",
+    "learning_objectives": [
+      "Understand the value of money and how to match notes and coins",
+      "Learn to make change and the concept of giving and taking",
+      "Recognize the importance of arithmetic in everyday life"
+    ]
+  },
+  {
+    "topic": "Subtraction and Earnings Calculation",
+    "content": "The concept of subtraction is used to find the difference between two amounts.",
+    "learning_objectives": [
+      "Understand that subtraction is the process of taking one number away from another",
+      "Recognize that the result of a subtraction problem is called the difference",
+      "Apply subtraction to calculate earnings or savings"
+    ]
+  },
+  {
+    "topic": "Weekly Savings Calculation",
+    "content": "She puts ` 100 every week in her piggy bank. How much money does she have at the end of four weeks?",
+    "learning_objectives": [
+      "Understand the concept of weekly savings",
+      "Calculate total savings over a period",
+      "Recognize the importance of consistent saving habits"
+    ]
+  },
+  {
+    "topic": "Addition and subtraction of three-digit numbers using number cards",
+    "content": "Understand that addition combines numbers to make a larger number, while subtraction takes away from a number to make a smaller number; learn to create different three-digit numbers using the number cards provided; practice rearranging the number cards to explore the effects on the sum and difference",
+    "learning_objectives": [
+      "Understand the concept of addition as combining numbers",
+      "Understand the concept of subtraction as taking away numbers",
+      "Create different three-digit numbers using provided number cards"
+    ]
+  },
+  {
+    "topic": "Understanding Calendar Months",
+    "content": "Time Goes On Appa bought a new calendar, Amma points a big blunder. Missing was the month of July, I wonder, where did it fly? Don t worry, don t worry, I have a solution to your query. July and January looks the same, Let us play the calendar game.",
+    "learning_objectives": [
+      "Identify the number of Sundays in July 2024",
+      "List the Thursdays in July 2024",
+      "Determine the date three days after July 22, 2024, and its corresponding day"
+    ]
+  },
+  {
+    "topic": "Months and Days in a Year",
+    "content": "There are 12 months in a year, each with a different number of days. February is the only month with less than 30 days, having 28 or 29 days. A year consists of 365 days, or 366 in a leap year.",
+    "learning_objectives": [
+      "Identify the 12 months of the year",
+      "Recognize that February has 28 or 29 days",
+      "Determine the number of days in a common and leap year"
+    ]
+  },
+  {
+    "topic": "Age Calculation and Birth Certificates",
+    "content": "Understand the concept of calculating age based on birth dates and the importance of accurate record-keeping in birth certificates.",
+    "learning_objectives": [
+      "Calculate the age of a person given their birth date and the current date.",
+      "Explain why it is important to know the exact birth date of a person.",
+      "List the typical information included in a birth certificate."
+    ]
+  },
+  {
+    "topic": "Time Measurement and Calculation",
+    "content": "Hetal started her breakfast at 7 o'clock in the morning and finished at 07:15.",
+    "learning_objectives": [
+      "Understand that time is measured in hours and minutes",
+      "Recognize that the hour hand shows the hour and the minute hand shows the minutes past the hour",
+      "Calculate the duration of an activity by subtracting the start time from the end time"
+    ]
+  },
+  {
+    "topic": "Time Measurement and Daily Activities",
+    "content": "A vegetable like radish takes about 2-3 weeks to grow, while a vegetable like cabbage may take 2-3 months.",
+    "learning_objectives": [
+      "Understand the concept of time measurement",
+      "Recognize the duration of various daily activities",
+      "Appreciate the growth cycle of different vegetables"
+    ]
+  },
+  {
+    "topic": "Seasonal Changes and Their Impact",
+    "content": "Changing from summer to winter involves a seasonal transition that affects the environment and the activities people engage in.",
+    "learning_objectives": [
+      "Understand that seasonal changes are natural cycles caused by the Earth's tilt and orbit around the sun.",
+      "Recognize how seasonal changes influence the length of daylight, temperature, and activities.",
+      "Appreciate the importance of adapting to seasonal changes for survival and comfort."
+    ]
+  },
+  {
+    "topic": "Understanding Sand Clocks",
+    "content": "Your sand clock is ready for use. You may use it to time while playing different games.",
+    "learning_objectives": [
+      "Understand the purpose of a sand clock",
+      "Know how a sand clock is constructed",
+      "Explain how a sand clock measures time"
+    ]
+  },
+  {
+    "topic": "Symmetry in Design and Nature",
+    "content": "In this section, we explore the concept of symmetry, which is the balance and harmony in the arrangement of elements in a picture or object. Symmetry can be observed in various patterns and shapes, such as the tiling on the floor or the design of objects at the fair.",
+    "learning_objectives": [
+      "Understand the concept of symmetry as visual balance",
+      "Identify examples of symmetry in nature, art, and architecture",
+      "Differentiate between reflective and rotational symmetry"
+    ]
+  },
+  {
+    "topic": "Symmetry in Malas",
+    "content": "A symmetrical mala has two halves that are mirror images of each other, used in meditation to keep track of the number of recitations.",
+    "learning_objectives": [
+      "Identify a symmetrical mala from the ones shown",
+      "Explain why symmetry is important in the design of a mala",
+      "State the purpose of a mala in meditation practices"
+    ]
+  },
+  {
+    "topic": "Symmetry in Rangolis",
+    "content": "Symmetry in rangolis is a visual representation of balance and harmony. A rangoli is symmetrical when it can be divided into two identical halves, either vertically or horizontally.",
+    "learning_objectives": [
+      "To create a symmetrical rangoli, one must ensure that the design on one side of the central line (vertical or horizontal) is a mirror image of the other side.",
+      "Tracing the rangoli on paper and folding it to find the line of symmetry helps in understanding the concept of reflection.",
+      "Observing symmetrical objects in the environment and discussing them can enhance the understanding of symmetry."
+    ]
+  },
+  {
+    "topic": "Symmetry in Masks",
+    "content": "Discuss with children why Avi was able to see only with one eye and make a symmetrical cat mask.",
+    "learning_objectives": [
+      "Understand that symmetrical objects can be divided into two equal parts",
+      "Recognize symmetry in everyday objects",
+      "Create a symmetrical mask"
+    ]
+  },
+  {
+    "topic": "The Mirror Game",
+    "content": "A strategic activity where two players, Soni and Avi, place counters on a line to create a mirror image of each other's placement.",
+    "learning_objectives": [
+      "Think strategically about counter placement",
+      "Develop spatial awareness and visualization skills",
+      "Encourage cooperation and communication between players"
+    ]
+  },
+  {
+    "topic": "Symmetry in Shapes and Patterns",
+    "content": "The concept of symmetry involves creating a mirror image by arranging objects in a way that one side is the reflection of the other.",
+    "learning_objectives": [
+      "Identify a shape with at least one line of symmetry",
+      "Explain how to create a symmetrical pattern using colored objects",
+      "Find an object in the environment that exhibits symmetry",
+      "Color a given shape to showcase its lines of symmetry",
+      "Create a symmetrical pattern using unit cubes or counters",
+      "Recognize that symmetry is a balance between two parts of an object or shape",
+      "Understand that lines of symmetry can be vertical, horizontal, or diagonal",
+      "Realize that symmetry is not limited to art but is a fundamental concept in geometry"
+    ]
+  },
+  {
+    "topic": "Tessellations Using Rangometry Shapes",
+    "content": "Discuss with children about the different footpaths they see, and encourage them to make paths with tiles with no gaps and overlaps.",
+    "learning_objectives": [
+      "Understand that tessellation is a pattern of shapes that fit perfectly together without any gaps or overlaps.",
+      "Recognize that rangometry shapes are geometric shapes used to create tessellations.",
+      "Realize that creating tessellations helps children understand symmetry and patterns."
+    ]
+  },
+  {
+    "topic": "Guessing Game at Fair",
+    "content": "Participants engage in a game of guessing a specific stall at a fair using yes or no answers.",
+    "learning_objectives": [
+      "Understand the use of directional clues in the game.",
+      "Recognize the importance of spatial awareness in the game.",
+      "Appreciate the process of elimination in identifying the correct stall."
+    ]
+  },
+  {
+    "topic": "Understanding Fairground Maps",
+    "content": "The map provides a visual representation of the fairgrounds, with various landmarks and facilities marked.",
+    "learning_objectives": [
+      "The map helps visitors navigate the fairgrounds by showing the location of important places.",
+      "The map includes pictures with names, making it easier to identify specific areas.",
+      "The map shows multiple exit routes, ensuring visitors can leave the fairgrounds safely."
+    ]
+  },
+  {
+    "topic": "Directions and Fractions",
+    "content": "Tell him the way to the ATM from the chaupal. There are two ways to go out of the Surajkund fair. One seems to be a maze and the other goes straight there. Follow the maze with Soni and Avi to exit the fair. Share the way you went through the maze. Write the things you found on the way. Explain clearly in simple language. Fractions Cards Tangram Squares",
+    "learning_objectives": [
+      "Understand directions from one location to another",
+      "Identify and follow paths through mazes",
+      "Describe objects and experiences found during a journey",
+      "Explain basic fractions using cards",
+      "Understand and manipulate tangram shapes"
+    ]
+  },
+  {
+    "topic": "Understanding Nets of 3D Shapes",
+    "content": "Cut along the dotted lines and fold the dark lines to form a 3D shape from a 2D net.",
+    "learning_objectives": [
+      "Understand that a net is a 2D representation of a 3D shape.",
+      "Identify the faces of a 3D shape in its net form.",
+      "Visualize how a 3D shape is constructed from its net.",
+      "Create nets for various 3D shapes including cubes, cylinders, cones, rectangular prisms, and pyramids.",
+      "Recognize common mistakes in interpreting nets of 3D shapes."
+    ]
+  }
+]
