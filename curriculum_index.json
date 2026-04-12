@@ -1,0 +1,166 @@
+{
+  "NCERT": {
+    "Class 1": {
+      "English": {
+        "_files": [
+          {
+            "name": "curriculum",
+            "url": "https://raw.githubusercontent.com/buildwithsupratim/maria/main/curriculum/NCERT/Class 1/English/curriculum.json"
+          }
+        ]
+      },
+      "Mathematics": {
+        "_files": [
+          {
+            "name": "curriculum",
+            "url": "https://raw.githubusercontent.com/buildwithsupratim/maria/main/curriculum/NCERT/Class 1/Mathematics/curriculum.json"
+          }
+        ]
+      }
+    },
+    "Class 2": {
+      "English": {
+        "_files": [
+          {
+            "name": "curriculum",
+            "url": "https://raw.githubusercontent.com/buildwithsupratim/maria/main/curriculum/NCERT/Class 2/English/curriculum.json"
+          }
+        ]
+      },
+      "Mathematics": {
+        "_files": [
+          {
+            "name": "curriculum",
+            "url": "https://raw.githubusercontent.com/buildwithsupratim/maria/main/curriculum/NCERT/Class 2/Mathematics/curriculum.json"
+          }
+        ]
+      }
+    },
+    "Class 3": {
+      "Arts": {
+        "_files": [
+          {
+            "name": "curriculum",
+            "url": "https://raw.githubusercontent.com/buildwithsupratim/maria/main/curriculum/NCERT/Class 3/Arts/curriculum.json"
+          }
+        ]
+      },
+      "English": {
+        "_files": [
+          {
+            "name": "curriculum",
+            "url": "https://raw.githubusercontent.com/buildwithsupratim/maria/main/curriculum/NCERT/Class 3/English/curriculum.json"
+          }
+        ]
+      },
+      "Mathematics": {
+        "_files": [
+          {
+            "name": "curriculum",
+            "url": "https://raw.githubusercontent.com/buildwithsupratim/maria/main/curriculum/NCERT/Class 3/Mathematics/curriculum.json"
+          }
+        ]
+      },
+      "Physical Education and Well Being": {
+        "_files": [
+          {
+            "name": "curriculum",
+            "url": "https://raw.githubusercontent.com/buildwithsupratim/maria/main/curriculum/NCERT/Class 3/Physical Education and Well Being/curriculum.json"
+          }
+        ]
+      },
+      "The World Around US": {
+        "_files": [
+          {
+            "name": "curriculum",
+            "url": "https://raw.githubusercontent.com/buildwithsupratim/maria/main/curriculum/NCERT/Class 3/The World Around US/curriculum.json"
+          }
+        ]
+      }
+    },
+    "Class 4": {
+      "Arts": {
+        "_files": [
+          {
+            "name": "curriculum",
+            "url": "https://raw.githubusercontent.com/buildwithsupratim/maria/main/curriculum/NCERT/Class 4/Arts/curriculum.json"
+          }
+        ]
+      },
+      "English": {
+        "_files": [
+          {
+            "name": "curriculum",
+            "url": "https://raw.githubusercontent.com/buildwithsupratim/maria/main/curriculum/NCERT/Class 4/English/curriculum.json"
+          }
+        ]
+      },
+      "Mathematics": {
+        "_files": [
+          {
+            "name": "curriculum",
+            "url": "https://raw.githubusercontent.com/buildwithsupratim/maria/main/curriculum/NCERT/Class 4/Mathematics/curriculum.json"
+          }
+        ]
+      },
+      "Physical Education and Well Being": {
+        "_files": [
+          {
+            "name": "curriculum",
+            "url": "https://raw.githubusercontent.com/buildwithsupratim/maria/main/curriculum/NCERT/Class 4/Physical Education and Well Being/curriculum.json"
+          }
+        ]
+      },
+      "The World Around US": {
+        "_files": [
+          {
+            "name": "curriculum",
+            "url": "https://raw.githubusercontent.com/buildwithsupratim/maria/main/curriculum/NCERT/Class 4/The World Around US/curriculum.json"
+          }
+        ]
+      }
+    },
+    "Class 5": {
+      "Arts": {
+        "_files": [
+          {
+            "name": "curriculum",
+            "url": "https://raw.githubusercontent.com/buildwithsupratim/maria/main/curriculum/NCERT/Class 5/Arts/curriculum.json"
+          }
+        ]
+      },
+      "English": {
+        "_files": [
+          {
+            "name": "curriculum",
+            "url": "https://raw.githubusercontent.com/buildwithsupratim/maria/main/curriculum/NCERT/Class 5/English/curriculum.json"
+          }
+        ]
+      },
+      "Mathematics": {
+        "_files": [
+          {
+            "name": "curriculum",
+            "url": "https://raw.githubusercontent.com/buildwithsupratim/maria/main/curriculum/NCERT/Class 5/Mathematics/curriculum.json"
+          }
+        ]
+      },
+      "Physical Education and Well Being": {
+        "_files": [
+          {
+            "name": "curriculum",
+            "url": "https://raw.githubusercontent.com/buildwithsupratim/maria/main/curriculum/NCERT/Class 5/Physical Education and Well Being/curriculum.json"
+          }
+        ]
+      },
+      "The World Around Us": {
+        "_files": [
+          {
+            "name": "curriculum",
+            "url": "https://raw.githubusercontent.com/buildwithsupratim/maria/main/curriculum/NCERT/Class 5/The World Around Us/curriculum.json"
+          }
+        ]
+      }
+    }
+  }
+}
